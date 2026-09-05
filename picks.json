@@ -1,0 +1,308 @@
+{
+  "name": "Nuvio AI Picks",
+  "description": "Hand-picked by Claude from David's Nuvio watch history. Refreshed on request.",
+  "updated": "2026-09-05",
+  "items": [
+    {
+      "type": "movie",
+      "tmdbId": 1008042,
+      "title": "Talk to Me",
+      "year": 2022,
+      "why": "Possession horror with the punch of Evil Dead Rise"
+    },
+    {
+      "type": "movie",
+      "tmdbId": 938614,
+      "title": "Late Night with the Devil",
+      "year": 2023,
+      "why": "Found-footage style possession, for Backrooms and Hokum fans"
+    },
+    {
+      "type": "tv",
+      "tmdbId": 70523,
+      "title": "Dark",
+      "year": 2017,
+      "why": "The best time-loop mystery series; 12 Monkeys and Silo energy"
+    },
+    {
+      "type": "tv",
+      "tmdbId": 95396,
+      "title": "Severance",
+      "year": 2022,
+      "why": "Apple TV+ sci-fi mystery box like Silo"
+    },
+    {
+      "type": "tv",
+      "tmdbId": 240411,
+      "title": "Dan Da Dan",
+      "year": 2024,
+      "why": "Shonen action meets ghosts and aliens; Naruto plus Supernatural"
+    },
+    {
+      "type": "movie",
+      "tmdbId": 1078605,
+      "title": "Weapons",
+      "year": 2025,
+      "why": "2025 supernatural horror hit"
+    },
+    {
+      "type": "tv",
+      "tmdbId": 124364,
+      "title": "From",
+      "year": 2022,
+      "why": "Trapped-town horror mystery with X-Files vibes"
+    },
+    {
+      "type": "movie",
+      "tmdbId": 493922,
+      "title": "Hereditary",
+      "year": 2018,
+      "why": "Modern possession classic"
+    },
+    {
+      "type": "tv",
+      "tmdbId": 106379,
+      "title": "Fallout",
+      "year": 2024,
+      "why": "Post-apocalyptic adventure with Ready Player One humor"
+    },
+    {
+      "type": "movie",
+      "tmdbId": 137113,
+      "title": "Edge of Tomorrow",
+      "year": 2014,
+      "why": "Time-loop sci-fi action"
+    },
+    {
+      "type": "tv",
+      "tmdbId": 75191,
+      "title": "The Terror",
+      "year": 2018,
+      "why": "Period drama meets supernatural horror; bridges Monte Cristo and Supernatural"
+    },
+    {
+      "type": "movie",
+      "tmdbId": 1226578,
+      "title": "Longlegs",
+      "year": 2024,
+      "why": "Occult serial-killer horror, true-crime flavored"
+    },
+    {
+      "type": "tv",
+      "tmdbId": 209867,
+      "title": "Frieren: Beyond Journey's End",
+      "year": 2023,
+      "why": "Top-rated fantasy anime"
+    },
+    {
+      "type": "tv",
+      "tmdbId": 207784,
+      "title": "Delicious in Dungeon",
+      "year": 2024,
+      "why": "Fantasy dungeon crawl built around cooking; Food Wars meets adventure"
+    },
+    {
+      "type": "movie",
+      "tmdbId": 1233413,
+      "title": "Sinners",
+      "year": 2025,
+      "why": "2025 vampire horror standout"
+    },
+    {
+      "type": "tv",
+      "tmdbId": 90972,
+      "title": "Station Eleven",
+      "year": 2021,
+      "why": "Post-apocalyptic literary adaptation, like See with heart"
+    },
+    {
+      "type": "movie",
+      "tmdbId": 1138194,
+      "title": "Heretic",
+      "year": 2024,
+      "why": "Single-location psychological horror"
+    },
+    {
+      "type": "tv",
+      "tmdbId": 1705,
+      "title": "Fringe",
+      "year": 2008,
+      "why": "The spiritual successor to The X-Files"
+    },
+    {
+      "type": "movie",
+      "tmdbId": 913290,
+      "title": "Barbarian",
+      "year": 2022,
+      "why": "House horror with wild twists, like Backrooms"
+    },
+    {
+      "type": "tv",
+      "tmdbId": 126308,
+      "title": "Shogun",
+      "year": 2024,
+      "why": "Prestige period drama for Monte Cristo fans"
+    },
+    {
+      "type": "movie",
+      "tmdbId": 567609,
+      "title": "Ready or Not",
+      "year": 2019,
+      "why": "Home-invasion horror comedy"
+    },
+    {
+      "type": "tv",
+      "tmdbId": 196322,
+      "title": "Dark Matter",
+      "year": 2024,
+      "why": "Apple TV+ multiverse thriller"
+    },
+    {
+      "type": "movie",
+      "tmdbId": 1216191,
+      "title": "Oddity",
+      "year": 2024,
+      "why": "Creepy supernatural mystery"
+    },
+    {
+      "type": "tv",
+      "tmdbId": 95479,
+      "title": "JUJUTSU KAISEN",
+      "year": 2020,
+      "why": "Supernatural shonen for Naruto fans"
+    },
+    {
+      "type": "movie",
+      "tmdbId": 762504,
+      "title": "Nope",
+      "year": 2022,
+      "why": "UFO horror with Disclosure Day themes"
+    },
+    {
+      "type": "tv",
+      "tmdbId": 63639,
+      "title": "The Expanse",
+      "year": 2015,
+      "why": "Best modern space sci-fi series"
+    },
+    {
+      "type": "movie",
+      "tmdbId": 22970,
+      "title": "The Cabin in the Woods",
+      "year": 2012,
+      "why": "Horror comedy that plays with every trope"
+    },
+    {
+      "type": "tv",
+      "tmdbId": 117488,
+      "title": "Yellowjackets",
+      "year": 2021,
+      "why": "Survival mystery with supernatural edges"
+    },
+    {
+      "type": "movie",
+      "tmdbId": 336882,
+      "title": "The Wave",
+      "year": 2015,
+      "why": "Norwegian disaster movie; Twisters intensity"
+    },
+    {
+      "type": "tv",
+      "tmdbId": 67744,
+      "title": "Mindhunter",
+      "year": 2017,
+      "why": "True-crime drama for Gilgo Beach viewers"
+    },
+    {
+      "type": "movie",
+      "tmdbId": 46838,
+      "title": "Tucker and Dale vs. Evil",
+      "year": 2010,
+      "why": "Horror comedy like John Dies at the End"
+    },
+    {
+      "type": "tv",
+      "tmdbId": 61929,
+      "title": "The Jinx",
+      "year": 2015,
+      "why": "Landmark true-crime docuseries"
+    },
+    {
+      "type": "movie",
+      "tmdbId": 723072,
+      "title": "Host",
+      "year": 2020,
+      "why": "Found-footage seance horror in under an hour"
+    },
+    {
+      "type": "tv",
+      "tmdbId": 67683,
+      "title": "Travelers",
+      "year": 2016,
+      "why": "Time-travel series with 12 Monkeys stakes"
+    },
+    {
+      "type": "movie",
+      "tmdbId": 550988,
+      "title": "Free Guy",
+      "year": 2021,
+      "why": "Video-game world adventure like Ready Player One"
+    },
+    {
+      "type": "tv",
+      "tmdbId": 31911,
+      "title": "Fullmetal Alchemist: Brotherhood",
+      "year": 2009,
+      "why": "The essential shonen"
+    },
+    {
+      "type": "movie",
+      "tmdbId": 524047,
+      "title": "Greenland",
+      "year": 2020,
+      "why": "Grounded disaster survival"
+    },
+    {
+      "type": "tv",
+      "tmdbId": 47665,
+      "title": "Black Sails",
+      "year": 2014,
+      "why": "Pirate period drama with Monte Cristo scheming"
+    },
+    {
+      "type": "movie",
+      "tmdbId": 359246,
+      "title": "Hell House LLC",
+      "year": 2015,
+      "why": "Found-footage haunted house cult favorite"
+    },
+    {
+      "type": "tv",
+      "tmdbId": 19885,
+      "title": "Sherlock",
+      "year": 2010,
+      "why": "For Young Sherlock viewers"
+    },
+    {
+      "type": "movie",
+      "tmdbId": 493529,
+      "title": "Dungeons & Dragons: Honor Among Thieves",
+      "year": 2023,
+      "why": "Fantasy adventure like King Arthur, funnier"
+    },
+    {
+      "type": "tv",
+      "tmdbId": 71769,
+      "title": "The Alienist",
+      "year": 2018,
+      "why": "Period detective drama"
+    },
+    {
+      "type": "tv",
+      "tmdbId": 77791,
+      "title": "Nailed It!",
+      "year": 2018,
+      "why": "Cooking competition comedy for Chopped fans"
+    }
+  ]
+}

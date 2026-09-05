@@ -1,0 +1,1117 @@
+[
+  {
+    "id": "ai-picks",
+    "title": "AI Picks",
+    "focusGlowEnabled": true,
+    "pinToTop": true,
+    "viewMode": "ROWS",
+    "showAllTab": false,
+    "folders": [
+      {
+        "id": "ai-picks--for-you",
+        "title": "For You",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "focusGifEnabled": false,
+        "sources": [
+          {
+            "provider": "tmdb",
+            "tmdbSourceType": "LIST",
+            "title": "Nuvio AI Picks",
+            "tmdbId": 8692488,
+            "mediaType": "MOVIE",
+            "sortBy": "original",
+            "filters": {}
+          }
+        ],
+        "catalogSources": [],
+        "coverEmoji": "✨"
+      }
+    ]
+  },
+  {
+    "id": "fright-night",
+    "title": "Fright Night",
+    "focusGlowEnabled": true,
+    "pinToTop": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": false,
+    "folders": [
+      {
+        "id": "fright-night--new-horror",
+        "title": "New Horror",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": false,
+        "focusGifEnabled": false,
+        "sources": [
+          {
+            "provider": "tmdb",
+            "tmdbSourceType": "DISCOVER",
+            "title": "New Horror Movies",
+            "tmdbId": "",
+            "mediaType": "MOVIE",
+            "sortBy": "primary_release_date.desc",
+            "filters": {
+              "withGenres": "27",
+              "voteCountGte": "25",
+              "releaseDateGte": "2025-03-05",
+              "releaseDateLte": "2026-09-05"
+            }
+          }
+        ],
+        "catalogSources": [],
+        "coverEmoji": "🩸"
+      },
+      {
+        "id": "fright-night--supernatural",
+        "title": "Supernatural",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": false,
+        "focusGifEnabled": false,
+        "sources": [
+          {
+            "provider": "tmdb",
+            "tmdbSourceType": "DISCOVER",
+            "title": "Possession & Ghosts",
+            "tmdbId": "",
+            "mediaType": "MOVIE",
+            "sortBy": "popularity.desc",
+            "filters": {
+              "withGenres": "27",
+              "withKeywords": "6152|9712|162846|3358",
+              "voteCountGte": "50"
+            }
+          },
+          {
+            "provider": "tmdb",
+            "tmdbSourceType": "DISCOVER",
+            "title": "Supernatural Series",
+            "tmdbId": "",
+            "mediaType": "TV",
+            "sortBy": "popularity.desc",
+            "filters": {
+              "withGenres": "10765",
+              "withKeywords": "6152|162846",
+              "voteCountGte": "50"
+            }
+          }
+        ],
+        "catalogSources": [],
+        "coverEmoji": "👻"
+      },
+      {
+        "id": "fright-night--found-footage",
+        "title": "Found Footage",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": false,
+        "focusGifEnabled": false,
+        "sources": [
+          {
+            "provider": "tmdb",
+            "tmdbSourceType": "DISCOVER",
+            "title": "Found Footage Horror",
+            "tmdbId": "",
+            "mediaType": "MOVIE",
+            "sortBy": "popularity.desc",
+            "filters": {
+              "withGenres": "27",
+              "withKeywords": "163053",
+              "voteCountGte": "25"
+            }
+          }
+        ],
+        "catalogSources": [],
+        "coverEmoji": "📹"
+      },
+      {
+        "id": "fright-night--horror-comedy",
+        "title": "Horror Comedy",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": false,
+        "focusGifEnabled": false,
+        "sources": [
+          {
+            "provider": "tmdb",
+            "tmdbSourceType": "DISCOVER",
+            "title": "Horror Comedies",
+            "tmdbId": "",
+            "mediaType": "MOVIE",
+            "sortBy": "popularity.desc",
+            "filters": {
+              "withGenres": "27,35",
+              "voteCountGte": "200"
+            }
+          }
+        ],
+        "catalogSources": [],
+        "coverEmoji": "🤡"
+      },
+      {
+        "id": "fright-night--slashers",
+        "title": "Slashers & Invasions",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": false,
+        "focusGifEnabled": false,
+        "sources": [
+          {
+            "provider": "tmdb",
+            "tmdbSourceType": "DISCOVER",
+            "title": "Slashers & Home Invasion",
+            "tmdbId": "",
+            "mediaType": "MOVIE",
+            "sortBy": "popularity.desc",
+            "filters": {
+              "withGenres": "27",
+              "withKeywords": "12339|14903",
+              "voteCountGte": "50"
+            }
+          }
+        ],
+        "catalogSources": [],
+        "coverEmoji": "🏚️"
+      },
+      {
+        "id": "fright-night--studios",
+        "title": "Blumhouse & A24",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": false,
+        "focusGifEnabled": false,
+        "sources": [
+          {
+            "provider": "tmdb",
+            "tmdbSourceType": "DISCOVER",
+            "title": "Blumhouse",
+            "tmdbId": "",
+            "mediaType": "MOVIE",
+            "sortBy": "popularity.desc",
+            "filters": {
+              "withGenres": "27",
+              "withCompanies": "3172",
+              "voteCountGte": "25"
+            }
+          },
+          {
+            "provider": "tmdb",
+            "tmdbSourceType": "DISCOVER",
+            "title": "A24 Horror",
+            "tmdbId": "",
+            "mediaType": "MOVIE",
+            "sortBy": "popularity.desc",
+            "filters": {
+              "withGenres": "27",
+              "withCompanies": "41077",
+              "voteCountGte": "25"
+            }
+          }
+        ],
+        "catalogSources": [],
+        "coverEmoji": "🎬"
+      },
+      {
+        "id": "fright-night--top-rated",
+        "title": "Top Rated",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": false,
+        "focusGifEnabled": false,
+        "sources": [
+          {
+            "provider": "tmdb",
+            "tmdbSourceType": "DISCOVER",
+            "title": "Top Rated Horror",
+            "tmdbId": "",
+            "mediaType": "MOVIE",
+            "sortBy": "vote_average.desc",
+            "filters": {
+              "withGenres": "27",
+              "voteCountGte": "1500"
+            }
+          }
+        ],
+        "catalogSources": [],
+        "coverEmoji": "🏆"
+      }
+    ]
+  },
+  {
+    "id": "signal-lost",
+    "title": "Signal Lost",
+    "focusGlowEnabled": true,
+    "pinToTop": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": false,
+    "folders": [
+      {
+        "id": "signal-lost--dystopia",
+        "title": "Dystopian",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": false,
+        "focusGifEnabled": false,
+        "sources": [
+          {
+            "provider": "tmdb",
+            "tmdbSourceType": "DISCOVER",
+            "title": "Dystopian Series",
+            "tmdbId": "",
+            "mediaType": "TV",
+            "sortBy": "popularity.desc",
+            "filters": {
+              "withGenres": "10765",
+              "withKeywords": "4565|4458",
+              "voteCountGte": "50"
+            }
+          },
+          {
+            "provider": "tmdb",
+            "tmdbSourceType": "DISCOVER",
+            "title": "Dystopian Movies",
+            "tmdbId": "",
+            "mediaType": "MOVIE",
+            "sortBy": "popularity.desc",
+            "filters": {
+              "withGenres": "878",
+              "withKeywords": "4565|4458",
+              "voteCountGte": "200"
+            }
+          }
+        ],
+        "catalogSources": [],
+        "coverEmoji": "🏙️"
+      },
+      {
+        "id": "signal-lost--time",
+        "title": "Time Loops",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": false,
+        "focusGifEnabled": false,
+        "sources": [
+          {
+            "provider": "tmdb",
+            "tmdbSourceType": "DISCOVER",
+            "title": "Time Travel Series",
+            "tmdbId": "",
+            "mediaType": "TV",
+            "sortBy": "popularity.desc",
+            "filters": {
+              "withKeywords": "4379|10854",
+              "voteCountGte": "50"
+            }
+          },
+          {
+            "provider": "tmdb",
+            "tmdbSourceType": "DISCOVER",
+            "title": "Time Travel Movies",
+            "tmdbId": "",
+            "mediaType": "MOVIE",
+            "sortBy": "popularity.desc",
+            "filters": {
+              "withKeywords": "4379|10854",
+              "voteCountGte": "200"
+            }
+          }
+        ],
+        "catalogSources": [],
+        "coverEmoji": "⏳"
+      },
+      {
+        "id": "signal-lost--contact",
+        "title": "Alien Contact",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": false,
+        "focusGifEnabled": false,
+        "sources": [
+          {
+            "provider": "tmdb",
+            "tmdbSourceType": "DISCOVER",
+            "title": "Aliens & UFOs",
+            "tmdbId": "",
+            "mediaType": "MOVIE",
+            "sortBy": "popularity.desc",
+            "filters": {
+              "withGenres": "878",
+              "withKeywords": "9951|9738",
+              "voteCountGte": "200"
+            }
+          },
+          {
+            "provider": "tmdb",
+            "tmdbSourceType": "DISCOVER",
+            "title": "Alien Series",
+            "tmdbId": "",
+            "mediaType": "TV",
+            "sortBy": "popularity.desc",
+            "filters": {
+              "withGenres": "10765",
+              "withKeywords": "9951|9738",
+              "voteCountGte": "50"
+            }
+          }
+        ],
+        "catalogSources": [],
+        "coverEmoji": "🛸"
+      },
+      {
+        "id": "signal-lost--apple",
+        "title": "Apple TV+ Sci-Fi",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": false,
+        "focusGifEnabled": false,
+        "sources": [
+          {
+            "provider": "tmdb",
+            "tmdbSourceType": "DISCOVER",
+            "title": "Apple TV+ Sci-Fi & Fantasy",
+            "tmdbId": "",
+            "mediaType": "TV",
+            "sortBy": "popularity.desc",
+            "filters": {
+              "withGenres": "10765",
+              "withNetworks": "2552",
+              "voteCountGte": "20"
+            }
+          }
+        ],
+        "catalogSources": [],
+        "coverEmoji": "🍎"
+      },
+      {
+        "id": "signal-lost--top-series",
+        "title": "Top Rated Series",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": false,
+        "focusGifEnabled": false,
+        "sources": [
+          {
+            "provider": "tmdb",
+            "tmdbSourceType": "DISCOVER",
+            "title": "Top Rated Sci-Fi Series",
+            "tmdbId": "",
+            "mediaType": "TV",
+            "sortBy": "vote_average.desc",
+            "filters": {
+              "withGenres": "10765",
+              "withoutGenres": "16",
+              "voteCountGte": "800"
+            }
+          }
+        ],
+        "catalogSources": [],
+        "coverEmoji": "🏆"
+      },
+      {
+        "id": "signal-lost--new-scifi",
+        "title": "New Sci-Fi",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": false,
+        "focusGifEnabled": false,
+        "sources": [
+          {
+            "provider": "tmdb",
+            "tmdbSourceType": "DISCOVER",
+            "title": "New Sci-Fi Movies",
+            "tmdbId": "",
+            "mediaType": "MOVIE",
+            "sortBy": "primary_release_date.desc",
+            "filters": {
+              "withGenres": "878",
+              "voteCountGte": "25",
+              "releaseDateGte": "2025-03-05",
+              "releaseDateLte": "2026-09-05"
+            }
+          },
+          {
+            "provider": "tmdb",
+            "tmdbSourceType": "DISCOVER",
+            "title": "New Sci-Fi Series",
+            "tmdbId": "",
+            "mediaType": "TV",
+            "sortBy": "first_air_date.desc",
+            "filters": {
+              "withGenres": "10765",
+              "withoutGenres": "16",
+              "voteCountGte": "20",
+              "releaseDateGte": "2025-03-05",
+              "releaseDateLte": "2026-09-05"
+            }
+          }
+        ],
+        "catalogSources": [],
+        "coverEmoji": "🚀"
+      }
+    ]
+  },
+  {
+    "id": "big-screen",
+    "title": "Big Screen",
+    "focusGlowEnabled": true,
+    "pinToTop": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": false,
+    "folders": [
+      {
+        "id": "big-screen--fantasy",
+        "title": "Fantasy Adventure",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": false,
+        "focusGifEnabled": false,
+        "sources": [
+          {
+            "provider": "tmdb",
+            "tmdbSourceType": "DISCOVER",
+            "title": "Fantasy Adventure",
+            "tmdbId": "",
+            "mediaType": "MOVIE",
+            "sortBy": "popularity.desc",
+            "filters": {
+              "withGenres": "12,14",
+              "withoutGenres": "16",
+              "voteCountGte": "200"
+            }
+          }
+        ],
+        "catalogSources": [],
+        "coverEmoji": "🗡️"
+      },
+      {
+        "id": "big-screen--virtual",
+        "title": "Virtual Worlds",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": false,
+        "focusGifEnabled": false,
+        "sources": [
+          {
+            "provider": "tmdb",
+            "tmdbSourceType": "DISCOVER",
+            "title": "Virtual Reality & Video Games",
+            "tmdbId": "",
+            "mediaType": "MOVIE",
+            "sortBy": "popularity.desc",
+            "filters": {
+              "withKeywords": "4563|282",
+              "voteCountGte": "200"
+            }
+          }
+        ],
+        "catalogSources": [],
+        "coverEmoji": "🕹️"
+      },
+      {
+        "id": "big-screen--superheroes",
+        "title": "Superheroes",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": false,
+        "focusGifEnabled": false,
+        "sources": [
+          {
+            "provider": "tmdb",
+            "tmdbSourceType": "DISCOVER",
+            "title": "Superhero Movies",
+            "tmdbId": "",
+            "mediaType": "MOVIE",
+            "sortBy": "popularity.desc",
+            "filters": {
+              "withKeywords": "9715",
+              "voteCountGte": "200"
+            }
+          },
+          {
+            "provider": "tmdb",
+            "tmdbSourceType": "DISCOVER",
+            "title": "Superhero Series",
+            "tmdbId": "",
+            "mediaType": "TV",
+            "sortBy": "popularity.desc",
+            "filters": {
+              "withKeywords": "9715",
+              "withoutGenres": "16",
+              "voteCountGte": "50"
+            }
+          }
+        ],
+        "catalogSources": [],
+        "coverEmoji": "🦸"
+      },
+      {
+        "id": "big-screen--spielberg",
+        "title": "Spielberg",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": false,
+        "focusGifEnabled": false,
+        "sources": [
+          {
+            "provider": "tmdb",
+            "tmdbSourceType": "DIRECTOR",
+            "title": "Directed by Steven Spielberg",
+            "tmdbId": 488,
+            "mediaType": "MOVIE",
+            "sortBy": "popularity.desc",
+            "filters": {}
+          }
+        ],
+        "catalogSources": [],
+        "coverEmoji": "🎬"
+      },
+      {
+        "id": "big-screen--sword",
+        "title": "Sword & Sorcery",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": false,
+        "focusGifEnabled": false,
+        "sources": [
+          {
+            "provider": "tmdb",
+            "tmdbSourceType": "DISCOVER",
+            "title": "Sword & Sorcery",
+            "tmdbId": "",
+            "mediaType": "MOVIE",
+            "sortBy": "popularity.desc",
+            "filters": {
+              "withKeywords": "234213|157186|12988",
+              "withGenres": "12|14|28",
+              "voteCountGte": "50"
+            }
+          }
+        ],
+        "catalogSources": [],
+        "coverEmoji": "⚔️"
+      },
+      {
+        "id": "big-screen--popular",
+        "title": "Popular Now",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": false,
+        "focusGifEnabled": false,
+        "sources": [
+          {
+            "provider": "tmdb",
+            "tmdbSourceType": "DISCOVER",
+            "title": "Popular Adventure",
+            "tmdbId": "",
+            "mediaType": "MOVIE",
+            "sortBy": "popularity.desc",
+            "filters": {
+              "withGenres": "12|28|14",
+              "voteCountGte": "25",
+              "releaseDateGte": "2025-03-05",
+              "releaseDateLte": "2026-09-05"
+            }
+          }
+        ],
+        "catalogSources": [],
+        "coverEmoji": "🔥"
+      }
+    ]
+  },
+  {
+    "id": "storm-season",
+    "title": "Storm Season",
+    "focusGlowEnabled": true,
+    "pinToTop": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": false,
+    "folders": [
+      {
+        "id": "storm-season--disasters",
+        "title": "Natural Disasters",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": false,
+        "focusGifEnabled": false,
+        "sources": [
+          {
+            "provider": "tmdb",
+            "tmdbSourceType": "DISCOVER",
+            "title": "Natural Disaster Movies",
+            "tmdbId": "",
+            "mediaType": "MOVIE",
+            "sortBy": "popularity.desc",
+            "filters": {
+              "withKeywords": "5096",
+              "voteCountGte": "50"
+            }
+          }
+        ],
+        "catalogSources": [],
+        "coverEmoji": "🌋"
+      },
+      {
+        "id": "storm-season--storms",
+        "title": "Storm Chasers",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": false,
+        "focusGifEnabled": false,
+        "sources": [
+          {
+            "provider": "tmdb",
+            "tmdbSourceType": "DISCOVER",
+            "title": "Tornadoes & Storms",
+            "tmdbId": "",
+            "mediaType": "MOVIE",
+            "sortBy": "popularity.desc",
+            "filters": {
+              "withKeywords": "2213|14527|12336",
+              "voteCountGte": "50"
+            }
+          }
+        ],
+        "catalogSources": [],
+        "coverEmoji": "⛈️"
+      },
+      {
+        "id": "storm-season--survival",
+        "title": "Survival",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": false,
+        "focusGifEnabled": false,
+        "sources": [
+          {
+            "provider": "tmdb",
+            "tmdbSourceType": "DISCOVER",
+            "title": "Survival Movies",
+            "tmdbId": "",
+            "mediaType": "MOVIE",
+            "sortBy": "popularity.desc",
+            "filters": {
+              "withKeywords": "10349",
+              "withoutGenres": "27",
+              "voteCountGte": "200"
+            }
+          }
+        ],
+        "catalogSources": [],
+        "coverEmoji": "🧭"
+      }
+    ]
+  },
+  {
+    "id": "anime-corner",
+    "title": "Anime Corner",
+    "focusGlowEnabled": true,
+    "pinToTop": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": false,
+    "folders": [
+      {
+        "id": "anime-corner--popular",
+        "title": "Popular",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": false,
+        "focusGifEnabled": false,
+        "sources": [
+          {
+            "provider": "tmdb",
+            "tmdbSourceType": "DISCOVER",
+            "title": "Popular Anime",
+            "tmdbId": "",
+            "mediaType": "TV",
+            "sortBy": "popularity.desc",
+            "filters": {
+              "withGenres": "16",
+              "withOriginalLanguage": "ja",
+              "voteCountGte": "50"
+            }
+          }
+        ],
+        "catalogSources": [],
+        "coverEmoji": "🔥"
+      },
+      {
+        "id": "anime-corner--top-rated",
+        "title": "Top Rated",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": false,
+        "focusGifEnabled": false,
+        "sources": [
+          {
+            "provider": "tmdb",
+            "tmdbSourceType": "DISCOVER",
+            "title": "Top Rated Anime",
+            "tmdbId": "",
+            "mediaType": "TV",
+            "sortBy": "vote_average.desc",
+            "filters": {
+              "withGenres": "16",
+              "withOriginalLanguage": "ja",
+              "voteCountGte": "300"
+            }
+          }
+        ],
+        "catalogSources": [],
+        "coverEmoji": "🏆"
+      },
+      {
+        "id": "anime-corner--airing",
+        "title": "Airing Now",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": false,
+        "focusGifEnabled": false,
+        "sources": [
+          {
+            "provider": "tmdb",
+            "tmdbSourceType": "DISCOVER",
+            "title": "New Anime",
+            "tmdbId": "",
+            "mediaType": "TV",
+            "sortBy": "first_air_date.desc",
+            "filters": {
+              "withGenres": "16",
+              "withOriginalLanguage": "ja",
+              "voteCountGte": "10",
+              "releaseDateGte": "2026-01-05",
+              "releaseDateLte": "2026-09-05"
+            }
+          }
+        ],
+        "catalogSources": [],
+        "coverEmoji": "📺"
+      },
+      {
+        "id": "anime-corner--shonen",
+        "title": "Shonen Action",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": false,
+        "focusGifEnabled": false,
+        "sources": [
+          {
+            "provider": "tmdb",
+            "tmdbSourceType": "DISCOVER",
+            "title": "Shonen",
+            "tmdbId": "",
+            "mediaType": "TV",
+            "sortBy": "popularity.desc",
+            "filters": {
+              "withGenres": "16,10759",
+              "withOriginalLanguage": "ja",
+              "withKeywords": "207826|210024",
+              "voteCountGte": "50"
+            }
+          }
+        ],
+        "catalogSources": [],
+        "coverEmoji": "🍥"
+      },
+      {
+        "id": "anime-corner--food",
+        "title": "Food & Slice of Life",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": false,
+        "focusGifEnabled": false,
+        "sources": [
+          {
+            "provider": "tmdb",
+            "tmdbSourceType": "DISCOVER",
+            "title": "Food & Slice of Life Anime",
+            "tmdbId": "",
+            "mediaType": "TV",
+            "sortBy": "popularity.desc",
+            "filters": {
+              "withGenres": "16",
+              "withOriginalLanguage": "ja",
+              "withKeywords": "1918|9914",
+              "voteCountGte": "20"
+            }
+          }
+        ],
+        "catalogSources": [],
+        "coverEmoji": "🍜"
+      },
+      {
+        "id": "anime-corner--films",
+        "title": "Anime Films",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": false,
+        "focusGifEnabled": false,
+        "sources": [
+          {
+            "provider": "tmdb",
+            "tmdbSourceType": "DISCOVER",
+            "title": "Anime Movies",
+            "tmdbId": "",
+            "mediaType": "MOVIE",
+            "sortBy": "popularity.desc",
+            "filters": {
+              "withGenres": "16",
+              "withOriginalLanguage": "ja",
+              "voteCountGte": "200"
+            }
+          }
+        ],
+        "catalogSources": [],
+        "coverEmoji": "🎞️"
+      }
+    ]
+  },
+  {
+    "id": "cloak-and-dagger",
+    "title": "Cloak & Dagger",
+    "focusGlowEnabled": true,
+    "pinToTop": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": false,
+    "folders": [
+      {
+        "id": "cloak-and-dagger--period",
+        "title": "Period Drama",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": false,
+        "focusGifEnabled": false,
+        "sources": [
+          {
+            "provider": "tmdb",
+            "tmdbSourceType": "DISCOVER",
+            "title": "Period Drama Series",
+            "tmdbId": "",
+            "mediaType": "TV",
+            "sortBy": "popularity.desc",
+            "filters": {
+              "withGenres": "18",
+              "withKeywords": "15060",
+              "voteCountGte": "50"
+            }
+          }
+        ],
+        "catalogSources": [],
+        "coverEmoji": "🏰"
+      },
+      {
+        "id": "cloak-and-dagger--novels",
+        "title": "From the Page",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": false,
+        "focusGifEnabled": false,
+        "sources": [
+          {
+            "provider": "tmdb",
+            "tmdbSourceType": "DISCOVER",
+            "title": "Literary Adaptations",
+            "tmdbId": "",
+            "mediaType": "TV",
+            "sortBy": "popularity.desc",
+            "filters": {
+              "withGenres": "18",
+              "withKeywords": "818",
+              "withoutGenres": "16",
+              "voteCountGte": "200"
+            }
+          },
+          {
+            "provider": "tmdb",
+            "tmdbSourceType": "DISCOVER",
+            "title": "Adapted Adventure",
+            "tmdbId": "",
+            "mediaType": "MOVIE",
+            "sortBy": "popularity.desc",
+            "filters": {
+              "withGenres": "12,18",
+              "withKeywords": "818",
+              "voteCountGte": "200"
+            }
+          }
+        ],
+        "catalogSources": [],
+        "coverEmoji": "📖"
+      },
+      {
+        "id": "cloak-and-dagger--detectives",
+        "title": "Detectives",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": false,
+        "focusGifEnabled": false,
+        "sources": [
+          {
+            "provider": "tmdb",
+            "tmdbSourceType": "DISCOVER",
+            "title": "Detective Series",
+            "tmdbId": "",
+            "mediaType": "TV",
+            "sortBy": "popularity.desc",
+            "filters": {
+              "withGenres": "9648|80",
+              "withKeywords": "703|273879",
+              "withoutGenres": "16",
+              "voteCountGte": "50"
+            }
+          },
+          {
+            "provider": "tmdb",
+            "tmdbSourceType": "DISCOVER",
+            "title": "Sherlock Holmes",
+            "tmdbId": "",
+            "mediaType": "MOVIE",
+            "sortBy": "popularity.desc",
+            "filters": {
+              "withKeywords": "273879",
+              "voteCountGte": "100"
+            }
+          }
+        ],
+        "catalogSources": [],
+        "coverEmoji": "🔍"
+      },
+      {
+        "id": "cloak-and-dagger--swashbucklers",
+        "title": "Swashbucklers",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": false,
+        "focusGifEnabled": false,
+        "sources": [
+          {
+            "provider": "tmdb",
+            "tmdbSourceType": "DISCOVER",
+            "title": "Swashbucklers & Pirates",
+            "tmdbId": "",
+            "mediaType": "MOVIE",
+            "sortBy": "popularity.desc",
+            "filters": {
+              "withKeywords": "157186|12988",
+              "voteCountGte": "50"
+            }
+          }
+        ],
+        "catalogSources": [],
+        "coverEmoji": "🏴‍☠️"
+      }
+    ]
+  },
+  {
+    "id": "unscripted",
+    "title": "Unscripted",
+    "focusGlowEnabled": true,
+    "pinToTop": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": false,
+    "folders": [
+      {
+        "id": "unscripted--reality",
+        "title": "Reality TV",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": false,
+        "focusGifEnabled": false,
+        "sources": [
+          {
+            "provider": "tmdb",
+            "tmdbSourceType": "DISCOVER",
+            "title": "Popular Reality",
+            "tmdbId": "",
+            "mediaType": "TV",
+            "sortBy": "popularity.desc",
+            "filters": {
+              "withGenres": "10764",
+              "withOriginalLanguage": "en",
+              "voteCountGte": "30"
+            }
+          }
+        ],
+        "catalogSources": [],
+        "coverEmoji": "🎤"
+      },
+      {
+        "id": "unscripted--true-crime",
+        "title": "True Crime",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": false,
+        "focusGifEnabled": false,
+        "sources": [
+          {
+            "provider": "tmdb",
+            "tmdbSourceType": "DISCOVER",
+            "title": "True Crime Docuseries",
+            "tmdbId": "",
+            "mediaType": "TV",
+            "sortBy": "first_air_date.desc",
+            "filters": {
+              "withGenres": "99",
+              "withKeywords": "33722",
+              "voteCountGte": "10"
+            }
+          },
+          {
+            "provider": "tmdb",
+            "tmdbSourceType": "DISCOVER",
+            "title": "True Crime Documentaries",
+            "tmdbId": "",
+            "mediaType": "MOVIE",
+            "sortBy": "popularity.desc",
+            "filters": {
+              "withGenres": "99",
+              "withKeywords": "33722",
+              "voteCountGte": "20"
+            }
+          }
+        ],
+        "catalogSources": [],
+        "coverEmoji": "🚔"
+      },
+      {
+        "id": "unscripted--cooking",
+        "title": "Cooking Shows",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": false,
+        "focusGifEnabled": false,
+        "sources": [
+          {
+            "provider": "tmdb",
+            "tmdbSourceType": "DISCOVER",
+            "title": "Cooking Competitions",
+            "tmdbId": "",
+            "mediaType": "TV",
+            "sortBy": "popularity.desc",
+            "filters": {
+              "withKeywords": "227635|1918",
+              "withGenres": "10764",
+              "voteCountGte": "5"
+            }
+          },
+          {
+            "provider": "tmdb",
+            "tmdbSourceType": "DISCOVER",
+            "title": "Food Network",
+            "tmdbId": "",
+            "mediaType": "TV",
+            "sortBy": "popularity.desc",
+            "filters": {
+              "withNetworks": "143",
+              "voteCountGte": "5"
+            }
+          }
+        ],
+        "catalogSources": [],
+        "coverEmoji": "🍳"
+      },
+      {
+        "id": "unscripted--docs",
+        "title": "Documentaries",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": false,
+        "focusGifEnabled": false,
+        "sources": [
+          {
+            "provider": "tmdb",
+            "tmdbSourceType": "DISCOVER",
+            "title": "Top Documentaries",
+            "tmdbId": "",
+            "mediaType": "MOVIE",
+            "sortBy": "vote_average.desc",
+            "filters": {
+              "withGenres": "99",
+              "voteCountGte": "300"
+            }
+          },
+          {
+            "provider": "tmdb",
+            "tmdbSourceType": "DISCOVER",
+            "title": "Docuseries",
+            "tmdbId": "",
+            "mediaType": "TV",
+            "sortBy": "popularity.desc",
+            "filters": {
+              "withGenres": "99",
+              "withOriginalLanguage": "en",
+              "voteCountGte": "50"
+            }
+          }
+        ],
+        "catalogSources": [],
+        "coverEmoji": "🎞️"
+      }
+    ]
+  }
+]

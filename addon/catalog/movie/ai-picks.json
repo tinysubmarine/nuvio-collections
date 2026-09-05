@@ -1,0 +1,291 @@
+{
+  "metas": [
+    {
+      "id": "tt10638522",
+      "type": "movie",
+      "name": "Talk to Me",
+      "poster": "https://image.tmdb.org/t/p/w500/kdPMUMJzyYAc4roD52qavX0nLIC.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/46Os8U0DEPmI0OnvKDxucl6SLVZ.jpg",
+      "description": "Possession horror with the punch of Evil Dead Rise. When a group of friends discover how to conjure spirits using an embalmed hand, they become hooked on the new thrill, until one of them goes too far and unleashes terrifying supernatural forces.",
+      "releaseInfo": "2023",
+      "imdbRating": "7.1",
+      "genres": [
+        "Horror"
+      ]
+    },
+    {
+      "id": "tt14966898",
+      "type": "movie",
+      "name": "Late Night with the Devil",
+      "poster": "https://image.tmdb.org/t/p/w500/mu8LRWT9GHkfiyHm7kgxT6YNvMW.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/umyOinNa6vqqnqoVc9QqzyaapUz.jpg",
+      "description": "Found-footage style possession, for Backrooms and Hokum fans. A live broadcast of a late-night talk show in 1977 goes horribly wrong, unleashing evil into the nation's living rooms.",
+      "releaseInfo": "2024",
+      "imdbRating": "7.1",
+      "genres": [
+        "Horror"
+      ]
+    },
+    {
+      "id": "tt26581740",
+      "type": "movie",
+      "name": "Weapons",
+      "poster": "https://image.tmdb.org/t/p/w500/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/8VyTWJrNEyV2MTWvniDVp0MpOAe.jpg",
+      "description": "2025 supernatural horror hit. When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.3",
+      "genres": [
+        "Horror",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt7784604",
+      "type": "movie",
+      "name": "Hereditary",
+      "poster": "https://image.tmdb.org/t/p/w500/4GFPuL14eXi66V96xBWY73Y9PfR.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/gJbTXKNTL6O7r7PzF6ZRkJGBlPp.jpg",
+      "description": "Modern possession classic. Following the death of the Leigh family matriarch, Annie and her children uncover disturbing secrets about their heritage. Their daily lives are not only impacted, but they also become entangled in a chilling fate from which they cannot escape, driving them to the brink of madness.",
+      "releaseInfo": "2018",
+      "imdbRating": "7.3",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt1631867",
+      "type": "movie",
+      "name": "Edge of Tomorrow",
+      "poster": "https://image.tmdb.org/t/p/w500/nBM9MMa2WCwvMG4IJ3eiGUdbPe6.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/4V1yIoAKPMRQwGBaSses8Bp2nsi.jpg",
+      "description": "Time-loop sci-fi action. Major Bill Cage is an officer who has never seen a day of combat when he is unceremoniously demoted and dropped into combat. Cage is killed within minutes, managing to take an alpha alien down with him. He awakens back at the beginning of the same day and is forced to fight and die again... and again - as physical contact with the alien has thrown him into a time loop.",
+      "releaseInfo": "2014",
+      "imdbRating": "7.6",
+      "genres": [
+        "Action",
+        "Science Fiction"
+      ]
+    },
+    {
+      "id": "tt23468450",
+      "type": "movie",
+      "name": "Longlegs",
+      "poster": "https://image.tmdb.org/t/p/w500/1EwNyiiNFd863H4e8nWEzutnZD7.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/6ToGkmqn0KG0UGGGUAC1Ww0e5CM.jpg",
+      "description": "Occult serial-killer horror, true-crime flavored. FBI Agent Lee Harker is a gifted new recruit assigned to the unsolved case of an elusive serial killer. As the case takes complex turns, unearthing evidence of the occult, Harker discovers a personal connection to the merciless killer and must race against time to stop him before he claims the lives of another innocent family.",
+      "releaseInfo": "2024",
+      "imdbRating": "6.5",
+      "genres": [
+        "Crime",
+        "Horror",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt31193180",
+      "type": "movie",
+      "name": "Sinners",
+      "poster": "https://image.tmdb.org/t/p/w500/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/nAxGnGHOsfzufThz20zgmRwKur3.jpg",
+      "description": "2025 vampire horror standout. Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.5",
+      "genres": [
+        "Horror",
+        "Action",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt28015403",
+      "type": "movie",
+      "name": "Heretic",
+      "poster": "https://image.tmdb.org/t/p/w500/fr96XzlzsONrQrGfdLMiwtQjott.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ag66gJCiZ06q1GSJuQlhGLi3Udx.jpg",
+      "description": "Single-location psychological horror. Two young missionaries are forced to prove their faith when they knock on the wrong door and are greeted by a diabolical Mr. Reed, becoming ensnared in his deadly game of cat-and-mouse.",
+      "releaseInfo": "2024",
+      "imdbRating": "7.0",
+      "genres": [
+        "Thriller",
+        "Horror"
+      ]
+    },
+    {
+      "id": "tt15791034",
+      "type": "movie",
+      "name": "Barbarian",
+      "poster": "https://image.tmdb.org/t/p/w500/idT5mnqPcJgSkvpDX7pJffBzdVH.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/kSeU4uk19t82k6Cao7hc6ktDYhF.jpg",
+      "description": "House horror with wild twists, like Backrooms. In town for a job interview, a young woman arrives at her Airbnb late at night only to find that it has been mistakenly double-booked and a strange man is already staying there. Against her better judgement, she decides to stay the night anyway.",
+      "releaseInfo": "2022",
+      "imdbRating": "6.9",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt7798634",
+      "type": "movie",
+      "name": "Ready or Not",
+      "poster": "https://image.tmdb.org/t/p/w500/oJD9KQFoObZmxAS1je56SIFVNJt.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/oJ1MIABA0WF0a7MDVQnnMvBdex8.jpg",
+      "description": "Home-invasion horror comedy. A young bride's wedding night turns into her worst nightmare when her ridiculously rich in-laws force her to play a gruesome game of hide-and-seek.",
+      "releaseInfo": "2019",
+      "imdbRating": "7.1",
+      "genres": [
+        "Horror",
+        "Comedy"
+      ]
+    },
+    {
+      "id": "tt26470109",
+      "type": "movie",
+      "name": "Oddity",
+      "poster": "https://image.tmdb.org/t/p/w500/3Z9c1tbUhP0QruRjczPHnbx3U2D.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/6GhU4BJnqLSaAuz0yQBq3RfdzsF.jpg",
+      "description": "Creepy supernatural mystery. After the brutal murder of her twin sister, Darcy goes after those responsible by using haunted items as her tools for revenge.",
+      "releaseInfo": "2024",
+      "imdbRating": "6.7",
+      "genres": [
+        "Horror",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt10954984",
+      "type": "movie",
+      "name": "Nope",
+      "poster": "https://image.tmdb.org/t/p/w500/AcKVlWaNVVVFQwro3nLXqPljcYA.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/yRutvYkM3OP8N9oqqfjSK1VC7fs.jpg",
+      "description": "UFO horror with Disclosure Day themes. Residents in a lonely gulch of inland California bear witness to an uncanny, chilling discovery.",
+      "releaseInfo": "2022",
+      "imdbRating": "6.8",
+      "genres": [
+        "Horror",
+        "Science Fiction",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt1259521",
+      "type": "movie",
+      "name": "The Cabin in the Woods",
+      "poster": "https://image.tmdb.org/t/p/w500/zZZe5wn0udlhMtdlDjN4NB72R6e.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/wJffMiCnrszaNclKggGixYWB7D7.jpg",
+      "description": "Horror comedy that plays with every trope. Five friends set out for a weekend at a remote cabin in the woods, expecting nothing more than fun and relaxation. As night falls, they discover that something far more unsettling is at work and that nothing about their getaway is what it seems.",
+      "releaseInfo": "2012",
+      "imdbRating": "6.7",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Comedy"
+      ]
+    },
+    {
+      "id": "tt3616916",
+      "type": "movie",
+      "name": "The Wave",
+      "poster": "https://image.tmdb.org/t/p/w500/nUra0UF9MLlTRZH9LCA8xYvhd6D.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/9W0aXF5HhGilDHloymf7sTCne8z.jpg",
+      "description": "Norwegian disaster movie; Twisters intensity. Although theorised, no one is really ready when a mountain pass above the scenic and narrow Geiranger fjord in Norway collapses and creates a tsunami over 300 feet high. A geologist is one of those caught in the middle of it.",
+      "releaseInfo": "2015",
+      "imdbRating": "6.7",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt1465522",
+      "type": "movie",
+      "name": "Tucker and Dale vs. Evil",
+      "poster": "https://image.tmdb.org/t/p/w500/8shwLEDzajJGSfLgbpac8x8xn1U.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/kgaQLCOpH8K5kZZRmeiI4btSrl0.jpg",
+      "description": "Horror comedy like John Dies at the End. Two hillbillies are suspected of being killers by a group of paranoid college kids camping near the duo's West Virginian cabin. As the body count climbs, so does the fear and confusion as the college kids try to seek revenge against the pair.",
+      "releaseInfo": "2010",
+      "imdbRating": "7.4",
+      "genres": [
+        "Comedy",
+        "Horror"
+      ]
+    },
+    {
+      "id": "tt12749596",
+      "type": "movie",
+      "name": "Host",
+      "poster": "https://image.tmdb.org/t/p/w500/h7dZpJDORYs5c56dydbrLFkEXpE.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/buop8brXQ8gGiOPrVTxZZUqE8Oa.jpg",
+      "description": "Found-footage seance horror in under an hour. Six friends hire a medium to hold a séance via Zoom during lockdown — but they get far more than they bargained for as things quickly go wrong. When an evil spirit starts invading their homes, they begin to realise they might not survive the night.",
+      "releaseInfo": "2020",
+      "imdbRating": "6.6",
+      "genres": [
+        "Horror"
+      ]
+    },
+    {
+      "id": "tt6264654",
+      "type": "movie",
+      "name": "Free Guy",
+      "poster": "https://image.tmdb.org/t/p/w500/dxraF0qPr1OEgJk17ltQTO84kQF.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/rOJb0yQOCny0bPjg8bCLw8DyAD7.jpg",
+      "description": "Video-game world adventure like Ready Player One. A bank teller discovers he is actually a background player in an open-world video game, and decides to become the hero of his own story. Now, in a world where there are no limits, he is determined to be the guy who saves his world his way before it's too late.",
+      "releaseInfo": "2021",
+      "imdbRating": "7.4",
+      "genres": [
+        "Comedy",
+        "Adventure",
+        "Science Fiction"
+      ]
+    },
+    {
+      "id": "tt7737786",
+      "type": "movie",
+      "name": "Greenland",
+      "poster": "https://image.tmdb.org/t/p/w500/bNo2mcvSwIvnx8K6y1euAc1TLVq.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/2Fk3AB8E9dYIBc2ywJkxk8BTyhc.jpg",
+      "description": "Grounded disaster survival. John Garrity, his estranged wife and their young son embark on a perilous journey to find sanctuary as a planet-killing comet hurtles toward Earth. Amid terrifying accounts of cities getting levelled, the Garritys experience the best and worst in humanity. As the countdown to the global apocalypse approaches zero, their incredible trek culminates in a desperate and last-minute flight to a possible safe haven.",
+      "releaseInfo": "2020",
+      "imdbRating": "7.1",
+      "genres": [
+        "Thriller",
+        "Action",
+        "Science Fiction"
+      ]
+    },
+    {
+      "id": "tt4267026",
+      "type": "movie",
+      "name": "Hell House LLC",
+      "poster": "https://image.tmdb.org/t/p/w500/xUSCQEbbAy3Lv6r00RfXtdxhRDX.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/u3ZOKKSonIVzNFlDwPd2kPypXy6.jpg",
+      "description": "Found-footage haunted house cult favorite. Five years after an unexplained malfunction causes the death of 15 tour-goers and staff on the opening night of a Halloween haunted house tour, a documentary crew travels back to the scene of the tragedy to find out what really happened.",
+      "releaseInfo": "2015",
+      "imdbRating": "6.5",
+      "genres": [
+        "Horror",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt2906216",
+      "type": "movie",
+      "name": "Dungeons & Dragons: Honor Among Thieves",
+      "poster": "https://image.tmdb.org/t/p/w500/v7UF7ypAqjsFZFdjksjQ7IUpXdn.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/AdBXP8e6K3FYdDrMx3Wr6WZqCYF.jpg",
+      "description": "Fantasy adventure like King Arthur, funnier. A charming thief and a band of unlikely adventurers undertake an epic heist to retrieve a lost relic, but things go dangerously awry when they run afoul of the wrong people.",
+      "releaseInfo": "2023",
+      "imdbRating": "7.4",
+      "genres": [
+        "Adventure",
+        "Fantasy",
+        "Comedy"
+      ]
+    }
+  ]
+}

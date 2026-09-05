@@ -1,0 +1,31 @@
+{
+  "id": "io.github.tinysubmarine.nuvio-picks",
+  "version": "1.0.1788646524",
+  "name": "AI Picks",
+  "description": "Hand-picked by Claude from David's Nuvio watch history. Refreshed on request.",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "movie",
+    "series"
+  ],
+  "idPrefixes": [
+    "tt"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "ai-picks",
+      "name": "AI Picks"
+    },
+    {
+      "type": "series",
+      "id": "ai-picks",
+      "name": "AI Picks"
+    }
+  ],
+  "behaviorHints": {
+    "configurable": false
+  }
+}
