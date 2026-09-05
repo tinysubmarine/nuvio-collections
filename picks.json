@@ -4,25 +4,67 @@
   "updated": "2026-09-05",
   "items": [
     {
-      "type": "movie",
-      "tmdbId": 1008042,
-      "title": "Talk to Me",
-      "year": 2022,
-      "why": "Possession horror with the punch of Evil Dead Rise"
-    },
-    {
-      "type": "movie",
-      "tmdbId": 938614,
-      "title": "Late Night with the Devil",
-      "year": 2023,
-      "why": "Found-footage style possession, for Backrooms and Hokum fans"
-    },
-    {
       "type": "tv",
       "tmdbId": 70523,
       "title": "Dark",
       "year": 2017,
       "why": "The best time-loop mystery series; 12 Monkeys and Silo energy"
+    },
+    {
+      "type": "movie",
+      "tmdbId": 1151031,
+      "title": "Bring Her Back",
+      "year": 2025,
+      "why": "From the Talk to Me directors; grief-soaked possession horror"
+    },
+    {
+      "type": "movie",
+      "tmdbId": 1100782,
+      "title": "Smile 2",
+      "year": 2024,
+      "why": "Relentless supernatural horror sequel"
+    },
+    {
+      "type": "movie",
+      "tmdbId": 138843,
+      "title": "The Conjuring",
+      "year": 2013,
+      "why": "The modern haunted-house benchmark"
+    },
+    {
+      "type": "movie",
+      "tmdbId": 397243,
+      "title": "The Autopsy of Jane Doe",
+      "year": 2016,
+      "why": "Single-location supernatural mystery, tight and creepy"
+    },
+    {
+      "type": "movie",
+      "tmdbId": 1084199,
+      "title": "Companion",
+      "year": 2025,
+      "why": "Sci-fi horror with a Ready or Not streak of dark comedy"
+    },
+    {
+      "type": "movie",
+      "tmdbId": 945961,
+      "title": "Alien: Romulus",
+      "year": 2024,
+      "why": "Back-to-basics Alien horror"
+    },
+    {
+      "type": "movie",
+      "tmdbId": 766507,
+      "title": "Prey",
+      "year": 2022,
+      "why": "Survival action with a Predator; period setting too"
+    },
+    {
+      "type": "tv",
+      "tmdbId": 114410,
+      "title": "Chainsaw Man",
+      "year": 2022,
+      "why": "Body-horror shonen for Parasyte and Naruto viewers"
     },
     {
       "type": "tv",
@@ -37,13 +79,6 @@
       "title": "Dan Da Dan",
       "year": 2024,
       "why": "Shonen action meets ghosts and aliens; Naruto plus Supernatural"
-    },
-    {
-      "type": "movie",
-      "tmdbId": 1078605,
-      "title": "Weapons",
-      "year": 2025,
-      "why": "2025 supernatural horror hit"
     },
     {
       "type": "tv",
@@ -102,13 +137,6 @@
       "why": "Fantasy dungeon crawl built around cooking; Food Wars meets adventure"
     },
     {
-      "type": "movie",
-      "tmdbId": 1233413,
-      "title": "Sinners",
-      "year": 2025,
-      "why": "2025 vampire horror standout"
-    },
-    {
       "type": "tv",
       "tmdbId": 90972,
       "title": "Station Eleven",
@@ -128,13 +156,6 @@
       "title": "Fringe",
       "year": 2008,
       "why": "The spiritual successor to The X-Files"
-    },
-    {
-      "type": "movie",
-      "tmdbId": 913290,
-      "title": "Barbarian",
-      "year": 2022,
-      "why": "House horror with wild twists, like Backrooms"
     },
     {
       "type": "tv",
@@ -186,13 +207,6 @@
       "why": "Best modern space sci-fi series"
     },
     {
-      "type": "movie",
-      "tmdbId": 22970,
-      "title": "The Cabin in the Woods",
-      "year": 2012,
-      "why": "Horror comedy that plays with every trope"
-    },
-    {
       "type": "tv",
       "tmdbId": 117488,
       "title": "Yellowjackets",
@@ -212,13 +226,6 @@
       "title": "Mindhunter",
       "year": 2017,
       "why": "True-crime drama for Gilgo Beach viewers"
-    },
-    {
-      "type": "movie",
-      "tmdbId": 46838,
-      "title": "Tucker and Dale vs. Evil",
-      "year": 2010,
-      "why": "Horror comedy like John Dies at the End"
     },
     {
       "type": "tv",
@@ -282,13 +289,6 @@
       "title": "Sherlock",
       "year": 2010,
       "why": "For Young Sherlock viewers"
-    },
-    {
-      "type": "movie",
-      "tmdbId": 493529,
-      "title": "Dungeons & Dragons: Honor Among Thieves",
-      "year": 2023,
-      "why": "Fantasy adventure like King Arthur, funnier"
     },
     {
       "type": "tv",

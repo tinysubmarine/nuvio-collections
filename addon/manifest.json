@@ -1,6 +1,6 @@
 {
   "id": "io.github.tinysubmarine.nuvio-picks",
-  "version": "1.0.1788646524",
+  "version": "1.0.1788648206",
   "name": "AI Picks",
   "description": "Hand-picked by Claude from David's Nuvio watch history. Refreshed on request.",
   "resources": [

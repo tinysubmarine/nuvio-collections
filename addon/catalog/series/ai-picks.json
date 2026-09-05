@@ -17,6 +17,22 @@
       ]
     },
     {
+      "id": "tt13616990",
+      "type": "series",
+      "name": "Chainsaw Man",
+      "poster": "https://image.tmdb.org/t/p/w500/iFM1dyFi0rByvEomEkmm7NpQeeb.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/5DUMPBSnHOZsbBv81GFXZXvDpo6.jpg",
+      "description": "Body-horror shonen for Parasyte and Naruto viewers. Denji has a simple dream—to live a happy and peaceful life, spending time with a girl he likes. This is a far cry from reality, however, as Denji is forced by the yakuza into killing devils in order to pay off his crushing debts. Using his pet devil Pochita as a weapon, he is ready to do anything for a bit of cash.",
+      "releaseInfo": "2022",
+      "imdbRating": "8.5",
+      "genres": [
+        "Animation",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Comedy"
+      ]
+    },
+    {
       "id": "tt11280740",
       "type": "series",
       "name": "Severance",
