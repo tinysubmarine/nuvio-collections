@@ -86,8 +86,9 @@ function buildCollection(c) {
     id: c.id,
     title: c.title,
     focusGlowEnabled: true,
-    // Pinned collections sit above addon catalog rows such as Popular and Featured.
-    pinToTop: c.pinToTop ?? true,
+    // Unpinned so the AI Picks addon rows can be ordered above them in Nuvio's home
+    // settings. Pinned collections always render above every catalog row.
+    pinToTop: !!c.pinToTop,
     viewMode: c.viewMode || 'TABBED_GRID',
     showAllTab: c.showAllTab ?? false,
     folders: c.folders.map((f) => buildFolder(f, c.id)),
@@ -98,8 +99,9 @@ function buildCollection(c) {
 
 const configUrl = new URL('./picks.config.json', import.meta.url);
 const listId = existsSync(configUrl) ? JSON.parse(readFileSync(configUrl, 'utf8')).listId : null;
-const all = listId ? [aiPicks(listId), ...collections] : collections;
-if (!listId) console.log('note: AI Picks skipped until push-picks.mjs has created the TMDB list');
+// AI Picks reaches the home screen through the addon in addon/, not a collection.
+// Set INCLUDE_PICKS_COLLECTION=1 to also emit it as a folder-card collection.
+const all = listId && process.env.INCLUDE_PICKS_COLLECTION ? [aiPicks(listId), ...collections] : collections;
 const output = all.map(buildCollection);
 
 // Uniqueness checks the importer would otherwise resolve by renaming.

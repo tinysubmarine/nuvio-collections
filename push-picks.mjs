@@ -82,6 +82,9 @@ async function push() {
     body: { name: picks.name, description: picks.description, public: true, sort_by: 'original_order.asc' },
   });
   console.log(`Pushed ${items.length} picks to https://www.themoviedb.org/list/${config.listId}`);
+  // Also refresh the static addon catalog that Nuvio shows as home-screen tiles.
+  await import('./build-addon.mjs');
+  console.log('Now commit and push so GitHub Pages serves the new addon files:  git add -A && git commit -m "Refresh picks" && git push');
 }
 
 const cmd = process.argv[2];

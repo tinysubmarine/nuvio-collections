@@ -51,6 +51,18 @@ the collection points at the list, not the titles.
 
 `picks.config.json` holds your TMDB access token, so keep it out of git.
 
+## AI Picks on the home screen
+
+Nuvio only draws collections as folder cards on the home screen, so the picks
+are also published as a tiny static addon in `addon/` (a manifest plus a movie
+and a series catalog) served by GitHub Pages from this repo:
+
+    https://tinysubmarine.github.io/nuvio-collections/addon/manifest.json
+
+Add that URL as an addon in Nuvio and two rows of tiles appear on the home
+screen, "AI Picks" for movies and for series. `node push-picks.mjs` rebuilds
+`addon/` after syncing the TMDB list; commit and push to publish.
+
 ## Optional result check
 
 With a free TMDB API key you can confirm every tab returns results:

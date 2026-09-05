@@ -1,39 +1,9 @@
 [
   {
-    "id": "ai-picks",
-    "title": "AI Picks",
-    "focusGlowEnabled": true,
-    "pinToTop": true,
-    "viewMode": "ROWS",
-    "showAllTab": false,
-    "folders": [
-      {
-        "id": "ai-picks--for-you",
-        "title": "For You",
-        "tileShape": "POSTER",
-        "hideTitle": false,
-        "focusGifEnabled": false,
-        "sources": [
-          {
-            "provider": "tmdb",
-            "tmdbSourceType": "LIST",
-            "title": "Nuvio AI Picks",
-            "tmdbId": 8692488,
-            "mediaType": "MOVIE",
-            "sortBy": "original",
-            "filters": {}
-          }
-        ],
-        "catalogSources": [],
-        "coverEmoji": "✨"
-      }
-    ]
-  },
-  {
     "id": "fright-night",
     "title": "Fright Night",
     "focusGlowEnabled": true,
-    "pinToTop": true,
+    "pinToTop": false,
     "viewMode": "TABBED_GRID",
     "showAllTab": false,
     "folders": [
@@ -236,7 +206,7 @@
     "id": "signal-lost",
     "title": "Signal Lost",
     "focusGlowEnabled": true,
-    "pinToTop": true,
+    "pinToTop": false,
     "viewMode": "TABBED_GRID",
     "showAllTab": false,
     "folders": [
@@ -443,7 +413,7 @@
     "id": "big-screen",
     "title": "Big Screen",
     "focusGlowEnabled": true,
-    "pinToTop": true,
+    "pinToTop": false,
     "viewMode": "TABBED_GRID",
     "showAllTab": false,
     "folders": [
@@ -605,7 +575,7 @@
     "id": "storm-season",
     "title": "Storm Season",
     "focusGlowEnabled": true,
-    "pinToTop": true,
+    "pinToTop": false,
     "viewMode": "TABBED_GRID",
     "showAllTab": false,
     "folders": [
@@ -685,7 +655,7 @@
     "id": "anime-corner",
     "title": "Anime Corner",
     "focusGlowEnabled": true,
-    "pinToTop": true,
+    "pinToTop": false,
     "viewMode": "TABBED_GRID",
     "showAllTab": false,
     "folders": [
@@ -843,7 +813,7 @@
     "id": "cloak-and-dagger",
     "title": "Cloak & Dagger",
     "focusGlowEnabled": true,
-    "pinToTop": true,
+    "pinToTop": false,
     "viewMode": "TABBED_GRID",
     "showAllTab": false,
     "folders": [
@@ -975,7 +945,7 @@
     "id": "unscripted",
     "title": "Unscripted",
     "focusGlowEnabled": true,
-    "pinToTop": true,
+    "pinToTop": false,
     "viewMode": "TABBED_GRID",
     "showAllTab": false,
     "folders": [
