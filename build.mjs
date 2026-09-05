@@ -29,6 +29,9 @@ function buildFilters(input, mediaType) {
     if (v === undefined || v === null || v === '') continue;
     out[k] = String(v);
   }
+  // One of the Nuvio clients re-saves empty filters as 0. A rating max of 0 makes
+  // TMDB return nothing, so always pin it to 10 so the round trip is harmless.
+  if (out.voteAverageLte === undefined) out.voteAverageLte = '10';
   if (sinceMonths) {
     const months = WINDOWS[`${sinceMonths}Months`];
     if (!months) throw new Error(`Unknown window "${sinceMonths}"`);
