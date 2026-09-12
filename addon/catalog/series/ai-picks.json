@@ -17,6 +17,19 @@
       ]
     },
     {
+      "id": "tt3581920",
+      "type": "series",
+      "name": "The Last of Us",
+      "poster": "https://image.tmdb.org/t/p/w500/dmo6TYuuJgaYinXBPjrgG9mB5od.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/lY2DhbA7Hy44fAKddr06UrXWWaQ.jpg",
+      "description": "Survival drama across a ruined America; Fallout and I Am Legend fans. Twenty years after modern civilization has been destroyed, Joel, a hardened survivor, is hired to smuggle Ellie, a 14-year-old girl, out of an oppressive quarantine zone. What starts as a small job soon becomes a brutal, heartbreaking journey, as they both must traverse the United States and depend on each other for survival.",
+      "releaseInfo": "2023",
+      "imdbRating": "8.4",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
       "id": "tt13616990",
       "type": "series",
       "name": "Chainsaw Man",
@@ -188,7 +201,7 @@
       "type": "series",
       "name": "Dark Matter",
       "poster": "https://image.tmdb.org/t/p/w500/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/iBc82qaA05ntzSnrVndw8scv4Bn.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/572uSrnXM5uPVYMVqsxfNA41cT8.jpg",
       "description": "Apple TV+ multiverse thriller. Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
       "releaseInfo": "2024",
       "imdbRating": "7.8",
@@ -208,8 +221,8 @@
       "imdbRating": "8.6",
       "genres": [
         "Animation",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
       ]
     },
     {
@@ -217,7 +230,7 @@
       "type": "series",
       "name": "The Expanse",
       "poster": "https://image.tmdb.org/t/p/w500/5vQlVWkIMPhZ88OWchJsgwGEK9.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/uUwnClwdMA12bpHgeKgkQrbu5Oe.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/eVwD4s4dBOK5Jn7CzOLBTo0vXNH.jpg",
       "description": "Best modern space sci-fi series. A thriller set two hundred years in the future following the case of a missing young woman who brings a hardened detective and a rogue ship's captain together in a race across the solar system to expose the greatest conspiracy in human history.",
       "releaseInfo": "2015",
       "imdbRating": "8.1",
@@ -288,7 +301,7 @@
       "type": "series",
       "name": "Fullmetal Alchemist: Brotherhood",
       "poster": "https://image.tmdb.org/t/p/w500/5ZFUEOULaVml7pQuXxhpR2SmVUw.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/2UG177tWHy7xRmMKWJHB7nAUmKd.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/A6tMQAo6t6eRFCPhsrShmxZLqFB.jpg",
       "description": "The essential shonen. Disregard for alchemy’s laws ripped half of Edward Elric’s limbs from his body and left his brother Alphonse’s soul clinging to a suit of armor. To restore what was lost, the brothers seek the Philosopher’s Stone. Enemies and allies – the corrupt military, the Homunculi, and foreign alchemists – will alter the Elric brothers course, but their purpose will remain unchanged and their bond unbreakable.",
       "releaseInfo": "2009",
       "imdbRating": "8.7",

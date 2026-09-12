@@ -1,7 +1,7 @@
 {
   "name": "Nuvio AI Picks",
   "description": "Hand-picked by Claude from David's Nuvio watch history. Refreshed on request.",
-  "updated": "2026-09-05",
+  "updated": "2026-09-12",
   "items": [
     {
       "type": "tv",
@@ -9,6 +9,34 @@
       "title": "Dark",
       "year": 2017,
       "why": "The best time-loop mystery series; 12 Monkeys and Silo energy"
+    },
+    {
+      "type": "movie",
+      "tmdbId": 1100988,
+      "title": "28 Years Later",
+      "year": 2025,
+      "why": "Post-apocalyptic horror; the I Am Legend itch, current"
+    },
+    {
+      "type": "tv",
+      "tmdbId": 100088,
+      "title": "The Last of Us",
+      "year": 2023,
+      "why": "Survival drama across a ruined America; Fallout and I Am Legend fans"
+    },
+    {
+      "type": "movie",
+      "tmdbId": 447332,
+      "title": "A Quiet Place",
+      "year": 2018,
+      "why": "Tense creature survival, family-first like The Impossible"
+    },
+    {
+      "type": "movie",
+      "tmdbId": 435,
+      "title": "The Day After Tomorrow",
+      "year": 2004,
+      "why": "Big-scale weather disaster; The Wave and Twisters lineage"
     },
     {
       "type": "movie",
@@ -102,25 +130,11 @@
       "why": "Post-apocalyptic adventure with Ready Player One humor"
     },
     {
-      "type": "movie",
-      "tmdbId": 137113,
-      "title": "Edge of Tomorrow",
-      "year": 2014,
-      "why": "Time-loop sci-fi action"
-    },
-    {
       "type": "tv",
       "tmdbId": 75191,
       "title": "The Terror",
       "year": 2018,
       "why": "Period drama meets supernatural horror; bridges Monte Cristo and Supernatural"
-    },
-    {
-      "type": "movie",
-      "tmdbId": 1226578,
-      "title": "Longlegs",
-      "year": 2024,
-      "why": "Occult serial-killer horror, true-crime flavored"
     },
     {
       "type": "tv",
@@ -214,13 +228,6 @@
       "why": "Survival mystery with supernatural edges"
     },
     {
-      "type": "movie",
-      "tmdbId": 336882,
-      "title": "The Wave",
-      "year": 2015,
-      "why": "Norwegian disaster movie; Twisters intensity"
-    },
-    {
       "type": "tv",
       "tmdbId": 67744,
       "title": "Mindhunter",
@@ -261,13 +268,6 @@
       "title": "Fullmetal Alchemist: Brotherhood",
       "year": 2009,
       "why": "The essential shonen"
-    },
-    {
-      "type": "movie",
-      "tmdbId": 524047,
-      "title": "Greenland",
-      "year": 2020,
-      "why": "Grounded disaster survival"
     },
     {
       "type": "tv",

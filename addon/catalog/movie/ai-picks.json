@@ -1,6 +1,51 @@
 {
   "metas": [
     {
+      "id": "tt10548174",
+      "type": "movie",
+      "name": "28 Years Later",
+      "poster": "https://image.tmdb.org/t/p/w500/n5FygjEppOvac6yEaowi26nTyw3.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/6WqqEjiycNvDLjbEClM1zCwIbDD.jpg",
+      "description": "Post-apocalyptic horror; the I Am Legend itch, current. Twenty-eight years after the Rage virus outbreak, a heavily-defended island survives connected to the mainland by a single causeway. When one of the group leaves the island into the dark heart of the mainland, he discovers secrets, wonders, and horrors that have mutated not only the infected but other survivors as well.",
+      "releaseInfo": "2025",
+      "imdbRating": "6.6",
+      "genres": [
+        "Horror",
+        "Thriller",
+        "Science Fiction"
+      ]
+    },
+    {
+      "id": "tt6644200",
+      "type": "movie",
+      "name": "A Quiet Place",
+      "poster": "https://image.tmdb.org/t/p/w500/nAU74GmpUk7t5iklEp3bufwDq4n.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/nHRUtBwFNnNN70vcQ7lAsjc2T6S.jpg",
+      "description": "Tense creature survival, family-first like The Impossible. A family is forced to live in silence while hiding from creatures that hunt by sound.",
+      "releaseInfo": "2018",
+      "imdbRating": "7.4",
+      "genres": [
+        "Horror",
+        "Drama",
+        "Science Fiction"
+      ]
+    },
+    {
+      "id": "tt0319262",
+      "type": "movie",
+      "name": "The Day After Tomorrow",
+      "poster": "https://image.tmdb.org/t/p/w500/Wr4HeYQRvwVCxzOV5TmGE7UkXq.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/smqQ71MIn1DSdSiQzCzCOV6rgRq.jpg",
+      "description": "Big-scale weather disaster; The Wave and Twisters lineage. After paleoclimatologist Jack Hall is largely ignored by UN officials when presenting his environmental concerns about the beginning of a new Ice Age, his research proves true when a superstorm develops, setting off catastrophic natural disasters throughout the world. Trying to get to his son, Sam, who is trapped in New York City with his friend Laura and others, Jack and his crew must travel to get to Sam before it's too late.",
+      "releaseInfo": "2004",
+      "imdbRating": "6.6",
+      "genres": [
+        "Science Fiction",
+        "Thriller",
+        "Adventure"
+      ]
+    },
+    {
       "id": "tt32246771",
       "type": "movie",
       "name": "Bring Her Back",
@@ -60,7 +105,7 @@
       "type": "movie",
       "name": "Companion",
       "poster": "https://image.tmdb.org/t/p/w500/oCoTgC3UyWGfyQ9thE10ulWR7bn.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/cZnJ3ABPvsWGqwPcu06Eda493F9.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/sc1abgWNXc29wSBaerrjGBih06l.jpg",
       "description": "Sci-fi horror with a Ready or Not streak of dark comedy. During a weekend getaway at a secluded lakeside estate, a group of friends finds themselves entangled in a web of secrets, deception, and advanced technology. As tensions rise and loyalties are tested, they uncover unsettling truths about themselves and the world around them.",
       "releaseInfo": "2025",
       "imdbRating": "7.0",
@@ -92,7 +137,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/7ZO9yoEU2fAHKhmJWfAc2QIPWJg.jpg",
       "description": "Survival action with a Predator; period setting too. When danger threatens her camp, the fierce and highly skilled Comanche warrior Naru sets out to protect her people. But the prey she stalks turns out to be a highly evolved alien predator with a technically advanced arsenal.",
       "releaseInfo": "2022",
-      "imdbRating": "7.7",
+      "imdbRating": "7.6",
       "genres": [
         "Thriller",
         "Action",
@@ -112,35 +157,6 @@
         "Horror",
         "Mystery",
         "Thriller"
-      ]
-    },
-    {
-      "id": "tt1631867",
-      "type": "movie",
-      "name": "Edge of Tomorrow",
-      "poster": "https://image.tmdb.org/t/p/w500/nBM9MMa2WCwvMG4IJ3eiGUdbPe6.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/4V1yIoAKPMRQwGBaSses8Bp2nsi.jpg",
-      "description": "Time-loop sci-fi action. Major Bill Cage is an officer who has never seen a day of combat when he is unceremoniously demoted and dropped into combat. Cage is killed within minutes, managing to take an alpha alien down with him. He awakens back at the beginning of the same day and is forced to fight and die again... and again - as physical contact with the alien has thrown him into a time loop.",
-      "releaseInfo": "2014",
-      "imdbRating": "7.6",
-      "genres": [
-        "Action",
-        "Science Fiction"
-      ]
-    },
-    {
-      "id": "tt23468450",
-      "type": "movie",
-      "name": "Longlegs",
-      "poster": "https://image.tmdb.org/t/p/w500/1EwNyiiNFd863H4e8nWEzutnZD7.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/6ToGkmqn0KG0UGGGUAC1Ww0e5CM.jpg",
-      "description": "Occult serial-killer horror, true-crime flavored. FBI Agent Lee Harker is a gifted new recruit assigned to the unsolved case of an elusive serial killer. As the case takes complex turns, unearthing evidence of the occult, Harker discovers a personal connection to the merciless killer and must race against time to stop him before he claims the lives of another innocent family.",
-      "releaseInfo": "2024",
-      "imdbRating": "6.5",
-      "genres": [
-        "Crime",
-        "Horror",
-        "Mystery"
       ]
     },
     {
@@ -201,21 +217,6 @@
       ]
     },
     {
-      "id": "tt3616916",
-      "type": "movie",
-      "name": "The Wave",
-      "poster": "https://image.tmdb.org/t/p/w500/nUra0UF9MLlTRZH9LCA8xYvhd6D.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/9W0aXF5HhGilDHloymf7sTCne8z.jpg",
-      "description": "Norwegian disaster movie; Twisters intensity. Although theorised, no one is really ready when a mountain pass above the scenic and narrow Geiranger fjord in Norway collapses and creates a tsunami over 300 feet high. A geologist is one of those caught in the middle of it.",
-      "releaseInfo": "2015",
-      "imdbRating": "6.7",
-      "genres": [
-        "Action",
-        "Thriller",
-        "Drama"
-      ]
-    },
-    {
       "id": "tt12749596",
       "type": "movie",
       "name": "Host",
@@ -240,21 +241,6 @@
       "genres": [
         "Comedy",
         "Adventure",
-        "Science Fiction"
-      ]
-    },
-    {
-      "id": "tt7737786",
-      "type": "movie",
-      "name": "Greenland",
-      "poster": "https://image.tmdb.org/t/p/w500/bNo2mcvSwIvnx8K6y1euAc1TLVq.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/2Fk3AB8E9dYIBc2ywJkxk8BTyhc.jpg",
-      "description": "Grounded disaster survival. John Garrity, his estranged wife and their young son embark on a perilous journey to find sanctuary as a planet-killing comet hurtles toward Earth. Amid terrifying accounts of cities getting levelled, the Garritys experience the best and worst in humanity. As the countdown to the global apocalypse approaches zero, their incredible trek culminates in a desperate and last-minute flight to a possible safe haven.",
-      "releaseInfo": "2020",
-      "imdbRating": "7.1",
-      "genres": [
-        "Thriller",
-        "Action",
         "Science Fiction"
       ]
     },
