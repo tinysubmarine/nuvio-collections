@@ -14,7 +14,9 @@ the user-facing workflow. These are the non-obvious facts learned the hard way.
 - `picks.config.json` holds the TMDB read token and a v4 user access token.
   It is gitignored. Never commit it or print it.
 - Git pushes go to github.com/tinysubmarine/nuvio-collections. The `gh` CLI
-  has two accounts; use `tinysubmarine`, not `david-bergeron-honestly`.
+  has two accounts and the active one drifts back to `david-bergeron-honestly`
+  between sessions. Run `gh auth switch --user tinysubmarine` before every push
+  or the push is refused with a 403.
 
 ## Nuvio gotchas (verified against NuvioTV source, Sept 2026)
 
