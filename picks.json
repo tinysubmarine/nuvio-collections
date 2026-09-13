@@ -12,10 +12,52 @@
     },
     {
       "type": "movie",
-      "tmdbId": 1100988,
-      "title": "28 Years Later",
-      "year": 2025,
-      "why": "Post-apocalyptic horror; the I Am Legend itch, current"
+      "tmdbId": 259693,
+      "title": "The Conjuring 2",
+      "year": 2016,
+      "why": "Same haunted-house team, bigger scares"
+    },
+    {
+      "type": "movie",
+      "tmdbId": 49018,
+      "title": "Insidious",
+      "year": 2010,
+      "why": "Astral possession horror from the Conjuring director"
+    },
+    {
+      "type": "movie",
+      "tmdbId": 270303,
+      "title": "It Follows",
+      "year": 2014,
+      "why": "Slow-burn supernatural dread"
+    },
+    {
+      "type": "movie",
+      "tmdbId": 9392,
+      "title": "The Descent",
+      "year": 2005,
+      "why": "Claustrophobic creature survival"
+    },
+    {
+      "type": "movie",
+      "tmdbId": 520763,
+      "title": "A Quiet Place Part II",
+      "year": 2020,
+      "why": "Picks up right after the first one"
+    },
+    {
+      "type": "movie",
+      "tmdbId": 170,
+      "title": "28 Days Later",
+      "year": 2002,
+      "why": "Where 28 Years Later started"
+    },
+    {
+      "type": "tv",
+      "tmdbId": 79680,
+      "title": "Snowpiercer",
+      "year": 2020,
+      "why": "Post-apocalyptic class war on a train; Silo energy"
     },
     {
       "type": "tv",
@@ -26,13 +68,6 @@
     },
     {
       "type": "movie",
-      "tmdbId": 447332,
-      "title": "A Quiet Place",
-      "year": 2018,
-      "why": "Tense creature survival, family-first like The Impossible"
-    },
-    {
-      "type": "movie",
       "tmdbId": 435,
       "title": "The Day After Tomorrow",
       "year": 2004,
@@ -40,31 +75,10 @@
     },
     {
       "type": "movie",
-      "tmdbId": 1151031,
-      "title": "Bring Her Back",
-      "year": 2025,
-      "why": "From the Talk to Me directors; grief-soaked possession horror"
-    },
-    {
-      "type": "movie",
       "tmdbId": 1100782,
       "title": "Smile 2",
       "year": 2024,
       "why": "Relentless supernatural horror sequel"
-    },
-    {
-      "type": "movie",
-      "tmdbId": 138843,
-      "title": "The Conjuring",
-      "year": 2013,
-      "why": "The modern haunted-house benchmark"
-    },
-    {
-      "type": "movie",
-      "tmdbId": 397243,
-      "title": "The Autopsy of Jane Doe",
-      "year": 2016,
-      "why": "Single-location supernatural mystery, tight and creepy"
     },
     {
       "type": "movie",
@@ -114,20 +128,6 @@
       "title": "From",
       "year": 2022,
       "why": "Trapped-town horror mystery with X-Files vibes"
-    },
-    {
-      "type": "movie",
-      "tmdbId": 493922,
-      "title": "Hereditary",
-      "year": 2018,
-      "why": "Modern possession classic"
-    },
-    {
-      "type": "tv",
-      "tmdbId": 106379,
-      "title": "Fallout",
-      "year": 2024,
-      "why": "Post-apocalyptic adventure with Ready Player One humor"
     },
     {
       "type": "tv",

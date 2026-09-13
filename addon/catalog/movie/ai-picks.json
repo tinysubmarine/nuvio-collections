@@ -1,32 +1,87 @@
 {
   "metas": [
     {
-      "id": "tt10548174",
+      "id": "tt3065204",
       "type": "movie",
-      "name": "28 Years Later",
-      "poster": "https://image.tmdb.org/t/p/w500/n5FygjEppOvac6yEaowi26nTyw3.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/6WqqEjiycNvDLjbEClM1zCwIbDD.jpg",
-      "description": "Post-apocalyptic horror; the I Am Legend itch, current. Twenty-eight years after the Rage virus outbreak, a heavily-defended island survives connected to the mainland by a single causeway. When one of the group leaves the island into the dark heart of the mainland, he discovers secrets, wonders, and horrors that have mutated not only the infected but other survivors as well.",
-      "releaseInfo": "2025",
-      "imdbRating": "6.6",
+      "name": "The Conjuring 2",
+      "poster": "https://image.tmdb.org/t/p/w500/zEqyD0SBt6HL7W9JQoWwtd5Do1T.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/hD9zZYKYb1xBgcm8XIfyvclSkjs.jpg",
+      "description": "Same haunted-house team, bigger scares. Lorraine and Ed Warren travel to north London to help a single mother raising four children alone in a house plagued by malicious spirits.",
+      "releaseInfo": "2016",
+      "imdbRating": "7.3",
       "genres": [
-        "Horror",
-        "Thriller",
-        "Science Fiction"
+        "Horror"
       ]
     },
     {
-      "id": "tt6644200",
+      "id": "tt1591095",
       "type": "movie",
-      "name": "A Quiet Place",
-      "poster": "https://image.tmdb.org/t/p/w500/nAU74GmpUk7t5iklEp3bufwDq4n.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/nHRUtBwFNnNN70vcQ7lAsjc2T6S.jpg",
-      "description": "Tense creature survival, family-first like The Impossible. A family is forced to live in silence while hiding from creatures that hunt by sound.",
-      "releaseInfo": "2018",
-      "imdbRating": "7.4",
+      "name": "Insidious",
+      "poster": "https://image.tmdb.org/t/p/w500/8su4HXNbbOHBDT3dIc9aWlL5aZ6.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/tJvRdhlkonjBLBUpTqp0RPPujxJ.jpg",
+      "description": "Astral possession horror from the Conjuring director. A family discovers that dark spirits have invaded their home after their son inexplicably falls into an endless sleep. When they reach out to a professional for help, they learn things are a lot more personal than they thought.",
+      "releaseInfo": "2011",
+      "imdbRating": "7.0",
       "genres": [
         "Horror",
-        "Drama",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt3235888",
+      "type": "movie",
+      "name": "It Follows",
+      "poster": "https://image.tmdb.org/t/p/w500/iwnQ1JH1wdWrGYkgWySptJ5284A.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ikaRI4yMxKOje5SmOlAhOBUnicL.jpg",
+      "description": "Slow-burn supernatural dread. A young woman is followed by an unknown supernatural force after a sexual encounter.",
+      "releaseInfo": "2015",
+      "imdbRating": "6.6",
+      "genres": [
+        "Horror",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt0435625",
+      "type": "movie",
+      "name": "The Descent",
+      "poster": "https://image.tmdb.org/t/p/w500/mxFPI4KYBk5ri9cPteIS8jiDFgj.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/9T5D5RGuCsC6CeqYZJTv4rT4RPy.jpg",
+      "description": "Claustrophobic creature survival. After a personal tragedy, Sarah joins her friends on a caving expedition in the Appalachian Mountains. But when a rockfall traps them deep underground, their adventure turns into a nightmare. As they search for a way out, the group discovers they are not alone—lurking in the darkness are savage, cave-dwelling creatures. With rising tension and dwindling trust, the women must fight to survive against both the predators and each other.",
+      "releaseInfo": "2005",
+      "imdbRating": "7.0",
+      "genres": [
+        "Adventure",
+        "Horror"
+      ]
+    },
+    {
+      "id": "tt8332922",
+      "type": "movie",
+      "name": "A Quiet Place Part II",
+      "poster": "https://image.tmdb.org/t/p/w500/4q2hz2m8hubgvijz8Ez0T2Os2Yv.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/uuBYYlbfiYD7ny5VNj46NG14ykR.jpg",
+      "description": "Picks up right after the first one. Following the events at home, the Abbott family now face the terrors of the outside world. Forced to venture into the unknown, they realize that the creatures that hunt by sound are not the only threats that lurk beyond the sand path.",
+      "releaseInfo": "2021",
+      "imdbRating": "7.4",
+      "genres": [
+        "Science Fiction",
+        "Thriller",
+        "Horror"
+      ]
+    },
+    {
+      "id": "tt0289043",
+      "type": "movie",
+      "name": "28 Days Later",
+      "poster": "https://image.tmdb.org/t/p/w500/sQckQRt17VaWbo39GIu0TMOiszq.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/aJFwk1clMal1prxAvKAgHxKPAf.jpg",
+      "description": "Where 28 Years Later started. Twenty-eight days after a killer virus was accidentally unleashed from a British research facility, a small group of London survivors are caught in a desperate struggle to protect themselves from the infected. Carried by animals and humans, the virus turns those it infects into homicidal maniacs -- and it's absolutely impossible to contain.",
+      "releaseInfo": "2002",
+      "imdbRating": "7.2",
+      "genres": [
+        "Horror",
+        "Thriller",
         "Science Fiction"
       ]
     },
@@ -46,19 +101,6 @@
       ]
     },
     {
-      "id": "tt32246771",
-      "type": "movie",
-      "name": "Bring Her Back",
-      "poster": "https://image.tmdb.org/t/p/w500/1Q3GlCXGYWELifxANYZ5OVMRVZl.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/2IIKts2A9vnUdM9tTC76B8tDmuZ.jpg",
-      "description": "From the Talk to Me directors; grief-soaked possession horror. Following the death of their father, a brother and sister are sent to live with a foster mother, only to learn that she is hiding a terrifying secret.",
-      "releaseInfo": "2025",
-      "imdbRating": "7.3",
-      "genres": [
-        "Horror"
-      ]
-    },
-    {
       "id": "tt29268110",
       "type": "movie",
       "name": "Smile 2",
@@ -67,34 +109,6 @@
       "description": "Relentless supernatural horror sequel. About to embark on a new world tour, global pop sensation Skye Riley begins experiencing increasingly terrifying and inexplicable events. Overwhelmed by the escalating horrors and the pressures of fame, Skye is forced to face her dark past to regain control of her life before it spirals out of control.",
       "releaseInfo": "2024",
       "imdbRating": "6.6",
-      "genres": [
-        "Horror",
-        "Mystery"
-      ]
-    },
-    {
-      "id": "tt1457767",
-      "type": "movie",
-      "name": "The Conjuring",
-      "poster": "https://image.tmdb.org/t/p/w500/wVYREutTvI2tmxr6ujrHT704wGF.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/ecKQlAEG95k62SMGhvX83oEqANK.jpg",
-      "description": "The modern haunted-house benchmark. Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse. Forced to confront a powerful entity, the Warrens find themselves caught in the most terrifying case of their lives.",
-      "releaseInfo": "2013",
-      "imdbRating": "7.5",
-      "genres": [
-        "Horror",
-        "Thriller"
-      ]
-    },
-    {
-      "id": "tt3289956",
-      "type": "movie",
-      "name": "The Autopsy of Jane Doe",
-      "poster": "https://image.tmdb.org/t/p/w500/6K0wjP8kPCiPYy9PtXBGuypyt5I.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/2pOd80PQSJ9cUbli7PDeX59q3vQ.jpg",
-      "description": "Single-location supernatural mystery, tight and creepy. Father and son coroners receive a mysterious unidentified corpse with no apparent cause of death. As they attempt to examine the \"Jane Doe,\" they discover increasingly bizarre clues that hold the key to her terrifying secrets.",
-      "releaseInfo": "2016",
-      "imdbRating": "6.8",
       "genres": [
         "Horror",
         "Mystery"
@@ -142,21 +156,6 @@
         "Thriller",
         "Action",
         "Science Fiction"
-      ]
-    },
-    {
-      "id": "tt7784604",
-      "type": "movie",
-      "name": "Hereditary",
-      "poster": "https://image.tmdb.org/t/p/w500/4GFPuL14eXi66V96xBWY73Y9PfR.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/gJbTXKNTL6O7r7PzF6ZRkJGBlPp.jpg",
-      "description": "Modern possession classic. Following the death of the Leigh family matriarch, Annie and her children uncover disturbing secrets about their heritage. Their daily lives are not only impacted, but they also become entangled in a chilling fate from which they cannot escape, driving them to the brink of madness.",
-      "releaseInfo": "2018",
-      "imdbRating": "7.3",
-      "genres": [
-        "Horror",
-        "Mystery",
-        "Thriller"
       ]
     },
     {

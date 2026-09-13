@@ -17,6 +17,20 @@
       ]
     },
     {
+      "id": "tt6156584",
+      "type": "series",
+      "name": "Snowpiercer",
+      "poster": "https://image.tmdb.org/t/p/w500/exKzfiKzMdQBHrdd7zNmKauJkbg.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/h8dzXytAPFkAHv1kZAN1SshXI68.jpg",
+      "description": "Post-apocalyptic class war on a train; Silo energy. More than seven years after the world has become a frozen wasteland, the remnants of humanity inhabit a gigantic, perpetually-moving train that circles the globe as class warfare, social injustice and the politics of survival play out.",
+      "releaseInfo": "2020",
+      "imdbRating": "7.3",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ]
+    },
+    {
       "id": "tt3581920",
       "type": "series",
       "name": "The Last of Us",
@@ -89,21 +103,6 @@
         "Mystery",
         "Drama",
         "Sci-Fi & Fantasy"
-      ]
-    },
-    {
-      "id": "tt12637874",
-      "type": "series",
-      "name": "Fallout",
-      "poster": "https://image.tmdb.org/t/p/w500/c15BtJxCXMrISLVmysdsnZUPQft.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/coaPCIqQBPUZsOnJcWZxhaORcDT.jpg",
-      "description": "Post-apocalyptic adventure with Ready Player One humor. The story of haves and have-nots in a world in which there's almost nothing left to have. 200 years after the apocalypse, the gentle denizens of luxury fallout shelters are forced to return to the irradiated hellscape their ancestors left behind — and are shocked to discover an incredibly complex, gleefully weird, and highly violent universe waiting for them.",
-      "releaseInfo": "2024",
-      "imdbRating": "8.1",
-      "genres": [
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Drama"
       ]
     },
     {
