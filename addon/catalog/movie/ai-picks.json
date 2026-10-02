@@ -17,7 +17,7 @@
       "id": "tt1591095",
       "type": "movie",
       "name": "Insidious",
-      "poster": "https://image.tmdb.org/t/p/w500/8su4HXNbbOHBDT3dIc9aWlL5aZ6.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/tmlDFIUpGRKiuWm9Ixc6CYDk4y0.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/tJvRdhlkonjBLBUpTqp0RPPujxJ.jpg",
       "description": "Astral possession horror from the Conjuring director. A family discovers that dark spirits have invaded their home after their son inexplicably falls into an endless sleep. When they reach out to a professional for help, they learn things are a lot more personal than they thought.",
       "releaseInfo": "2011",
@@ -28,17 +28,18 @@
       ]
     },
     {
-      "id": "tt3235888",
+      "id": "tt0120737",
       "type": "movie",
-      "name": "It Follows",
-      "poster": "https://image.tmdb.org/t/p/w500/iwnQ1JH1wdWrGYkgWySptJ5284A.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/ikaRI4yMxKOje5SmOlAhOBUnicL.jpg",
-      "description": "Slow-burn supernatural dread. A young woman is followed by an unknown supernatural force after a sexual encounter.",
-      "releaseInfo": "2015",
-      "imdbRating": "6.6",
+      "name": "The Lord of the Rings: The Fellowship of the Ring",
+      "poster": "https://image.tmdb.org/t/p/w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/oiwc338EoBgS4sEI2ixAny4KQKg.jpg",
+      "description": "Where The Hobbit story leads. Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.",
+      "releaseInfo": "2001",
+      "imdbRating": "8.4",
       "genres": [
-        "Horror",
-        "Mystery"
+        "Adventure",
+        "Fantasy",
+        "Action"
       ]
     },
     {
@@ -68,21 +69,6 @@
         "Science Fiction",
         "Thriller",
         "Horror"
-      ]
-    },
-    {
-      "id": "tt0289043",
-      "type": "movie",
-      "name": "28 Days Later",
-      "poster": "https://image.tmdb.org/t/p/w500/sQckQRt17VaWbo39GIu0TMOiszq.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/aJFwk1clMal1prxAvKAgHxKPAf.jpg",
-      "description": "Where 28 Years Later started. Twenty-eight days after a killer virus was accidentally unleashed from a British research facility, a small group of London survivors are caught in a desperate struggle to protect themselves from the infected. Carried by animals and humans, the virus turns those it infects into homicidal maniacs -- and it's absolutely impossible to contain.",
-      "releaseInfo": "2002",
-      "imdbRating": "7.2",
-      "genres": [
-        "Horror",
-        "Thriller",
-        "Science Fiction"
       ]
     },
     {

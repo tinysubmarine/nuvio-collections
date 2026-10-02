@@ -5,7 +5,7 @@
       "type": "series",
       "name": "Dark",
       "poster": "https://image.tmdb.org/t/p/w500/apbrbWs8M9lyOpJYU5WXrpFbk1Z.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/3jDXL4Xvj3AzDOF6UH1xeyHW8MH.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/75HgaphatW0PDI3XIHQWZUpbhn6.jpg",
       "description": "The best time-loop mystery series; 12 Monkeys and Silo energy. A missing child sets four families on a frantic hunt for answers as they unearth a mind-bending mystery that spans three generations.",
       "releaseInfo": "2017",
       "imdbRating": "8.4",
@@ -14,6 +14,21 @@
         "Drama",
         "Sci-Fi & Fantasy",
         "Mystery"
+      ]
+    },
+    {
+      "id": "tt0118276",
+      "type": "series",
+      "name": "Buffy the Vampire Slayer",
+      "poster": "https://image.tmdb.org/t/p/w500/fYwBcPdzu3QjPcSCGJ7gAMT0aIu.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/lBmlLro9ZfY815ZXE5NKhYNxPRQ.jpg",
+      "description": "Monster-of-the-week like Supernatural with Smallville teen drama. Into every generation a slayer is born: one girl in all the world, a chosen one. She alone will wield the strength and skill to fight the vampires, demons, and the forces of darkness; to stop the spread of their evil and the swell of their number. She is the Slayer.",
+      "releaseInfo": "1997",
+      "imdbRating": "8.1",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Sci-Fi & Fantasy"
       ]
     },
     {
@@ -47,7 +62,7 @@
       "id": "tt13616990",
       "type": "series",
       "name": "Chainsaw Man",
-      "poster": "https://image.tmdb.org/t/p/w500/iFM1dyFi0rByvEomEkmm7NpQeeb.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/npdB6eFzizki0WaZ1OvKcJrWe97.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/5DUMPBSnHOZsbBv81GFXZXvDpo6.jpg",
       "description": "Body-horror shonen for Parasyte and Naruto viewers. Denji has a simple dream—to live a happy and peaceful life, spending time with a girl he likes. This is a far cry from reality, however, as Denji is forced by the yakuza into killing devils in order to pay off his crushing debts. Using his pet devil Pochita as a weapon, he is ready to do anything for a bit of cash.",
       "releaseInfo": "2022",
@@ -55,8 +70,7 @@
       "genres": [
         "Animation",
         "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Comedy"
+        "Sci-Fi & Fantasy"
       ]
     },
     {
@@ -95,7 +109,7 @@
       "type": "series",
       "name": "FROM",
       "poster": "https://image.tmdb.org/t/p/w500/pRtJagIxpfODzzb0T0NAvZSzErC.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/xLdw1xdHocKYFFvx7w41NchXMfJ.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/m7eiSGHFzr584zFmetGqkqaU6BN.jpg",
       "description": "Trapped-town horror mystery with X-Files vibes. Unravel the mystery of a nightmarish town in middle America that traps all those who enter. As the unwilling residents fight to keep a sense of normalcy and search for a way out, they must also survive the threats of the surrounding forest – including the terrifying creatures that come out when the sun goes down.",
       "releaseInfo": "2022",
       "imdbRating": "8.5",
@@ -126,7 +140,7 @@
       "name": "Frieren: Beyond Journey's End",
       "poster": "https://image.tmdb.org/t/p/w500/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/rBOnrVlck7BIlGeWVlzYiZeg4l2.jpg",
-      "description": "Top-rated fantasy anime. After the party of heroes defeated the Demon King, they restored peace to the land and returned to lives of solitude.  Generations pass, and the elven mage Frieren comes face to face with humanity’s mortality. She takes on a new apprentice and promises to fulfill old friends’ dying wishes. Can an elven mind make peace with the nature of life and death? Frieren embarks on her quest to find out.",
+      "description": "Top-rated fantasy anime. After the party of heroes defeated the Demon King, they restored peace to the land and returned to lives of solitude. Generations pass, and the elven mage Frieren comes face to face with humanity's mortality. She takes on a new apprentice and promises to fulfill old friends' dying wishes. Can an elven mind make peace with the nature of life and death? Frieren embarks on her quest to find out.",
       "releaseInfo": "2023",
       "imdbRating": "8.8",
       "genres": [
@@ -200,7 +214,7 @@
       "type": "series",
       "name": "Dark Matter",
       "poster": "https://image.tmdb.org/t/p/w500/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/572uSrnXM5uPVYMVqsxfNA41cT8.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/iBc82qaA05ntzSnrVndw8scv4Bn.jpg",
       "description": "Apple TV+ multiverse thriller. Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
       "releaseInfo": "2024",
       "imdbRating": "7.8",
@@ -214,7 +228,7 @@
       "type": "series",
       "name": "JUJUTSU KAISEN",
       "poster": "https://image.tmdb.org/t/p/w500/6qQzMJG27XOJsyAEEIisoJB45j2.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/qpin8cASXEVtwhzNsprHYFiOAGk.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/j2GvamiUMRpPjmNQSSht0Q7Z7e9.jpg",
       "description": "Supernatural shonen for Naruto fans. Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.",
       "releaseInfo": "2020",
       "imdbRating": "8.6",
