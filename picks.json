@@ -1,8 +1,36 @@
 {
   "name": "Nuvio AI Picks",
   "description": "Hand-picked by Claude from David's Nuvio watch history. Refreshed on request.",
-  "updated": "2026-10-02",
+  "updated": "2026-10-12",
   "items": [
+    {
+      "type": "movie",
+      "tmdbId": 948,
+      "title": "Halloween",
+      "year": 1978,
+      "why": "The original Halloween-night slasher; essential October viewing after Trick r Treat"
+    },
+    {
+      "type": "movie",
+      "tmdbId": 306964,
+      "title": "Tales of Halloween",
+      "year": 2015,
+      "why": "Halloween-night anthology in the same spirit as Trick r Treat"
+    },
+    {
+      "type": "movie",
+      "tmdbId": 744857,
+      "title": "When Evil Lurks",
+      "year": 2023,
+      "why": "Brutal Argentine possession horror for Virgin of the Quarry Lake fans"
+    },
+    {
+      "type": "movie",
+      "tmdbId": 10439,
+      "title": "Hocus Pocus",
+      "year": 1993,
+      "why": "Cozy witchy Halloween comedy, Death Becomes Her energy"
+    },
     {
       "type": "tv",
       "tmdbId": 70523,
@@ -65,13 +93,6 @@
       "title": "The Last of Us",
       "year": 2023,
       "why": "Survival drama across a ruined America; Fallout and I Am Legend fans"
-    },
-    {
-      "type": "movie",
-      "tmdbId": 435,
-      "title": "The Day After Tomorrow",
-      "year": 2004,
-      "why": "Big-scale weather disaster; The Wave and Twisters lineage"
     },
     {
       "type": "movie",
@@ -149,13 +170,6 @@
       "title": "Delicious in Dungeon",
       "year": 2024,
       "why": "Fantasy dungeon crawl built around cooking; Food Wars meets adventure"
-    },
-    {
-      "type": "tv",
-      "tmdbId": 90972,
-      "title": "Station Eleven",
-      "year": 2021,
-      "why": "Post-apocalyptic literary adaptation, like See with heart"
     },
     {
       "type": "movie",
@@ -303,6 +317,20 @@
       "title": "Nailed It!",
       "year": 2018,
       "why": "Cooking competition comedy for Chopped fans"
+    },
+    {
+      "type": "tv",
+      "tmdbId": 211684,
+      "title": "The Walking Dead: Daryl Dixon",
+      "year": 2023,
+      "why": "Walking Dead spinoff set in post-apocalyptic France"
+    },
+    {
+      "type": "movie",
+      "tmdbId": 664,
+      "title": "Twister",
+      "year": 1996,
+      "why": "The original storm-chaser movie behind Twisters"
     }
   ]
 }

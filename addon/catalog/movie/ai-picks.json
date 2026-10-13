@@ -1,6 +1,66 @@
 {
   "metas": [
     {
+      "id": "tt0077651",
+      "type": "movie",
+      "name": "Halloween",
+      "poster": "https://image.tmdb.org/t/p/w500/wijlZ3HaYMvlDTPqJoTCWKFkCPU.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/sHI9xlFRWCJ38AIIfOqnGjuEvXz.jpg",
+      "description": "The original Halloween-night slasher; essential October viewing after Trick r Treat. Fifteen years after murdering his sister on Halloween Night 1963, Michael Myers escapes from a mental hospital and returns to the small town of Haddonfield, Illinois to kill again.",
+      "releaseInfo": "1978",
+      "imdbRating": "7.6",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt4163020",
+      "type": "movie",
+      "name": "Tales of Halloween",
+      "poster": "https://image.tmdb.org/t/p/w500/fc4YBCqjfXv8EZpV5MpNsKPW3fY.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/6Fueh9poh3alPhAiM1xGuV6c5GF.jpg",
+      "description": "Halloween-night anthology in the same spirit as Trick r Treat. Ten stories from horror's top directors. Ghosts, ghouls, monsters, and the devil delight in terrorizing unsuspecting residents of a suburban neighborhood on Halloween night. This creepy anthology combines classic Halloween tales with the stuff of nightmares.",
+      "releaseInfo": "2015",
+      "imdbRating": "5.7",
+      "genres": [
+        "Horror",
+        "Comedy",
+        "Thriller",
+        "Adventure",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "tt16300962",
+      "type": "movie",
+      "name": "When Evil Lurks",
+      "poster": "https://image.tmdb.org/t/p/w500/iQ7G9LhP7NRRIUM4Vlai3eOxBAc.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/cavK9ox37pxDg11RvJINMH63onU.jpg",
+      "description": "Brutal Argentine possession horror for Virgin of the Quarry Lake fans. When brothers Pedro and Jimi discover that a demonic infection has been festering in a nearby farmhouse, they attempt to evict the victim from their land. Failing to adhere to the proper rites of exorcism, their reckless actions inadvertently trigger an epidemic of possessions across their rural community.",
+      "releaseInfo": "2023",
+      "imdbRating": "7.2",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt0107120",
+      "type": "movie",
+      "name": "Hocus Pocus",
+      "poster": "https://image.tmdb.org/t/p/w500/by4D4Q9NlUjFSEUA1yrxq6ksXmk.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ncr6KR7bBF8cps6yZKiTAwClpn1.jpg",
+      "description": "Cozy witchy Halloween comedy, Death Becomes Her energy. After 300 years of slumber, three sister witches are accidentally resurrected in Salem on Halloween night, and it is up to three kids and their newfound feline friend to put an end to the witches' reign of terror once and for all.",
+      "releaseInfo": "1993",
+      "imdbRating": "7.0",
+      "genres": [
+        "Fantasy",
+        "Comedy",
+        "Family"
+      ]
+    },
+    {
       "id": "tt3065204",
       "type": "movie",
       "name": "The Conjuring 2",
@@ -18,7 +78,7 @@
       "type": "movie",
       "name": "Insidious",
       "poster": "https://image.tmdb.org/t/p/w500/tmlDFIUpGRKiuWm9Ixc6CYDk4y0.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/tJvRdhlkonjBLBUpTqp0RPPujxJ.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/aXOUc4dkzp9wmJG5lC2iAE6VUdt.jpg",
       "description": "Astral possession horror from the Conjuring director. A family discovers that dark spirits have invaded their home after their son inexplicably falls into an endless sleep. When they reach out to a professional for help, they learn things are a lot more personal than they thought.",
       "releaseInfo": "2011",
       "imdbRating": "7.0",
@@ -69,21 +129,6 @@
         "Science Fiction",
         "Thriller",
         "Horror"
-      ]
-    },
-    {
-      "id": "tt0319262",
-      "type": "movie",
-      "name": "The Day After Tomorrow",
-      "poster": "https://image.tmdb.org/t/p/w500/Wr4HeYQRvwVCxzOV5TmGE7UkXq.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/smqQ71MIn1DSdSiQzCzCOV6rgRq.jpg",
-      "description": "Big-scale weather disaster; The Wave and Twisters lineage. After paleoclimatologist Jack Hall is largely ignored by UN officials when presenting his environmental concerns about the beginning of a new Ice Age, his research proves true when a superstorm develops, setting off catastrophic natural disasters throughout the world. Trying to get to his son, Sam, who is trapped in New York City with his friend Laura and others, Jack and his crew must travel to get to Sam before it's too late.",
-      "releaseInfo": "2004",
-      "imdbRating": "6.6",
-      "genres": [
-        "Science Fiction",
-        "Thriller",
-        "Adventure"
       ]
     },
     {
@@ -234,13 +279,28 @@
       "type": "movie",
       "name": "Hell House LLC",
       "poster": "https://image.tmdb.org/t/p/w500/xUSCQEbbAy3Lv6r00RfXtdxhRDX.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/u3ZOKKSonIVzNFlDwPd2kPypXy6.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/yIxnn3tcSwHe0DXvvQ3dfFVEPSR.jpg",
       "description": "Found-footage haunted house cult favorite. Five years after an unexplained malfunction causes the death of 15 tour-goers and staff on the opening night of a Halloween haunted house tour, a documentary crew travels back to the scene of the tragedy to find out what really happened.",
       "releaseInfo": "2015",
       "imdbRating": "6.5",
       "genres": [
         "Horror",
         "Mystery"
+      ]
+    },
+    {
+      "id": "tt0117998",
+      "type": "movie",
+      "name": "Twister",
+      "poster": "https://image.tmdb.org/t/p/w500/d4ie3f6QTvNw40V770Uzo87SDZn.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/5oCAo7LFj2x0yByfi5JYirGnK8I.jpg",
+      "description": "The original storm-chaser movie behind Twisters. An unprecedented series of violent tornadoes is sweeping across Oklahoma. Tornado chasers, headed by Dr. Jo Harding, attempt to release a groundbreaking device that will allow them to track them and create a more advanced warning system. They are joined by Jo's soon to be ex-husband Bill, a former tornado chaser himself, and his girlfriend Melissa.",
+      "releaseInfo": "1996",
+      "imdbRating": "6.6",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
       ]
     }
   ]

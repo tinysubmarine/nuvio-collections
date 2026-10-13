@@ -8,6 +8,45 @@
     "showAllTab": false,
     "folders": [
       {
+        "id": "fright-night--halloween",
+        "title": "Halloween",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": false,
+        "focusGifEnabled": false,
+        "sources": [
+          {
+            "provider": "tmdb",
+            "tmdbSourceType": "DISCOVER",
+            "title": "Set on Halloween Night",
+            "tmdbId": "",
+            "mediaType": "MOVIE",
+            "sortBy": "popularity.desc",
+            "filters": {
+              "withGenres": "27",
+              "withKeywords": "232795|180193|9694|182794|338244|219794",
+              "voteCountGte": "50",
+              "voteAverageLte": "10"
+            }
+          },
+          {
+            "provider": "tmdb",
+            "tmdbSourceType": "DISCOVER",
+            "title": "Spooky Season Favorites",
+            "tmdbId": "",
+            "mediaType": "MOVIE",
+            "sortBy": "popularity.desc",
+            "filters": {
+              "withKeywords": "3335",
+              "withoutGenres": "27",
+              "voteCountGte": "200",
+              "voteAverageLte": "10"
+            }
+          }
+        ],
+        "catalogSources": [],
+        "coverEmoji": "🎃"
+      },
+      {
         "id": "fright-night--new-horror",
         "title": "New Horror",
         "tileShape": "LANDSCAPE",
@@ -25,8 +64,8 @@
               "withGenres": "27",
               "voteCountGte": "25",
               "voteAverageLte": "10",
-              "releaseDateGte": "2025-03-05",
-              "releaseDateLte": "2026-09-05"
+              "releaseDateGte": "2025-04-13",
+              "releaseDateLte": "2026-10-13"
             }
           }
         ],
@@ -402,8 +441,8 @@
               "withGenres": "878",
               "voteCountGte": "25",
               "voteAverageLte": "10",
-              "releaseDateGte": "2025-03-05",
-              "releaseDateLte": "2026-09-05"
+              "releaseDateGte": "2025-04-13",
+              "releaseDateLte": "2026-10-13"
             }
           },
           {
@@ -418,8 +457,8 @@
               "withoutGenres": "16",
               "voteCountGte": "20",
               "voteAverageLte": "10",
-              "releaseDateGte": "2025-03-05",
-              "releaseDateLte": "2026-09-05"
+              "releaseDateGte": "2025-04-13",
+              "releaseDateLte": "2026-10-13"
             }
           }
         ],
@@ -586,8 +625,8 @@
               "withGenres": "12|28|14",
               "voteCountGte": "25",
               "voteAverageLte": "10",
-              "releaseDateGte": "2025-03-05",
-              "releaseDateLte": "2026-09-05"
+              "releaseDateGte": "2025-04-13",
+              "releaseDateLte": "2026-10-13"
             }
           }
         ],
@@ -756,8 +795,8 @@
               "withOriginalLanguage": "ja",
               "voteCountGte": "10",
               "voteAverageLte": "10",
-              "releaseDateGte": "2026-01-05",
-              "releaseDateLte": "2026-09-05"
+              "releaseDateGte": "2026-02-13",
+              "releaseDateLte": "2026-10-13"
             }
           }
         ],

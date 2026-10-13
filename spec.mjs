@@ -26,6 +26,8 @@ export const KW = {
   cooking: 1918, cookingContest: 227635, sliceOfLife: 9914, periodDrama: 15060,
   basedOnNovel: 818, detective: 703, sherlockHolmes: 273879, swashbuckler: 157186,
   pirate: 12988, trueCrime: 33722,
+  halloween: 3335, halloweenNight: 232795, trickOrTreating: 180193, halloweenParty: 9694,
+  halloweenCostume: 182794, jackOLantern: 338244, pumpkinCarving: 219794,
 };
 
 export const COMPANY = { blumhouse: 3172, a24: 41077 };
@@ -71,6 +73,15 @@ export const collections = [
     title: 'Fright Night',
     emoji: '🔪',
     folders: [
+      {
+        id: 'halloween', title: 'Halloween', emoji: '🎃',
+        sources: [
+          // The plain "halloween" keyword is tagged on most horror, so the scary row
+          // uses the narrower keywords that mean the story happens on Halloween.
+          movies('Set on Halloween Night', { withGenres: MOVIE.horror, withKeywords: [KW.halloweenNight, KW.trickOrTreating, KW.halloweenParty, KW.halloweenCostume, KW.jackOLantern, KW.pumpkinCarving].join('|'), ...NICHE }),
+          movies('Spooky Season Favorites', { withKeywords: KW.halloween, withoutGenres: MOVIE.horror, ...SOLID }),
+        ],
+      },
       {
         id: 'new-horror', title: 'New Horror', emoji: '🩸',
         sources: [

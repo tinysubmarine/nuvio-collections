@@ -4,8 +4,8 @@
       "id": "tt5753856",
       "type": "series",
       "name": "Dark",
-      "poster": "https://image.tmdb.org/t/p/w500/apbrbWs8M9lyOpJYU5WXrpFbk1Z.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/75HgaphatW0PDI3XIHQWZUpbhn6.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/wSXJHO9WHLb0aCwvQrtco7vOmWA.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/3jDXL4Xvj3AzDOF6UH1xeyHW8MH.jpg",
       "description": "The best time-loop mystery series; 12 Monkeys and Silo energy. A missing child sets four families on a frantic hunt for answers as they unearth a mind-bending mystery that spans three generations.",
       "releaseInfo": "2017",
       "imdbRating": "8.4",
@@ -20,7 +20,7 @@
       "id": "tt0118276",
       "type": "series",
       "name": "Buffy the Vampire Slayer",
-      "poster": "https://image.tmdb.org/t/p/w500/fYwBcPdzu3QjPcSCGJ7gAMT0aIu.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/y7fVZkyheCEQHDUEHwNmYENGfT2.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/lBmlLro9ZfY815ZXE5NKhYNxPRQ.jpg",
       "description": "Monster-of-the-week like Supernatural with Smallville teen drama. Into every generation a slayer is born: one girl in all the world, a chosen one. She alone will wield the strength and skill to fight the vampires, demons, and the forces of darkness; to stop the spread of their evil and the swell of their number. She is the Slayer.",
       "releaseInfo": "1997",
@@ -124,7 +124,7 @@
       "type": "series",
       "name": "The Terror",
       "poster": "https://image.tmdb.org/t/p/w500/fUVn5mScv83FfwrRUUR694yA7bd.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/ssyZgYScV9eClakZDwu4sPrgMmy.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/4W7yDLoI0qliQXBWBwR5PImI2VL.jpg",
       "description": "Period drama meets supernatural horror; bridges Monte Cristo and Supernatural. A chilling anthology series featuring stories of people in terrifying situations inspired by true historical events.",
       "releaseInfo": "2018",
       "imdbRating": "7.4",
@@ -167,20 +167,6 @@
       ]
     },
     {
-      "id": "tt10574236",
-      "type": "series",
-      "name": "Station Eleven",
-      "poster": "https://image.tmdb.org/t/p/w500/xWlhMOzRxUpu4uzkWcDQOaESCE.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/wJLDeUl7QT6Gs3YnIGQQ5K380r3.jpg",
-      "description": "Post-apocalyptic literary adaptation, like See with heart. The survivors of a devastating flu attempt to rebuild and reimagine the world anew – while holding on to the best of what’s been lost.",
-      "releaseInfo": "2021",
-      "imdbRating": "7.0",
-      "genres": [
-        "Drama",
-        "Mystery"
-      ]
-    },
-    {
       "id": "tt1119644",
       "type": "series",
       "name": "Fringe",
@@ -214,7 +200,7 @@
       "type": "series",
       "name": "Dark Matter",
       "poster": "https://image.tmdb.org/t/p/w500/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/iBc82qaA05ntzSnrVndw8scv4Bn.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/wFEAy4xRes1eeclsu7Z73Vzz7ET.jpg",
       "description": "Apple TV+ multiverse thriller. Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
       "releaseInfo": "2024",
       "imdbRating": "7.8",
@@ -228,7 +214,7 @@
       "type": "series",
       "name": "JUJUTSU KAISEN",
       "poster": "https://image.tmdb.org/t/p/w500/6qQzMJG27XOJsyAEEIisoJB45j2.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/j2GvamiUMRpPjmNQSSht0Q7Z7e9.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/qpin8cASXEVtwhzNsprHYFiOAGk.jpg",
       "description": "Supernatural shonen for Naruto fans. Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.",
       "releaseInfo": "2020",
       "imdbRating": "8.6",
@@ -314,7 +300,7 @@
       "type": "series",
       "name": "Fullmetal Alchemist: Brotherhood",
       "poster": "https://image.tmdb.org/t/p/w500/5ZFUEOULaVml7pQuXxhpR2SmVUw.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/A6tMQAo6t6eRFCPhsrShmxZLqFB.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/2UG177tWHy7xRmMKWJHB7nAUmKd.jpg",
       "description": "The essential shonen. Disregard for alchemy’s laws ripped half of Edward Elric’s limbs from his body and left his brother Alphonse’s soul clinging to a suit of armor. To restore what was lost, the brothers seek the Philosopher’s Stone. Enemies and allies – the corrupt military, the Homunculi, and foreign alchemists – will alter the Elric brothers course, but their purpose will remain unchanged and their bond unbreakable.",
       "releaseInfo": "2009",
       "imdbRating": "8.7",
@@ -380,6 +366,21 @@
       "imdbRating": "7.1",
       "genres": [
         "Reality"
+      ]
+    },
+    {
+      "id": "tt13062500",
+      "type": "series",
+      "name": "The Walking Dead: Daryl Dixon",
+      "poster": "https://image.tmdb.org/t/p/w500/sP5QdW9FN18XWcA4ROz3MPAQBTx.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/fkeVnvxVx4x2PdDOOzSblFUGTVt.jpg",
+      "description": "Walking Dead spinoff set in post-apocalyptic France. After washing ashore in France, Daryl struggles to piece together how he got there and why, as he navigates a fractured, walker-infested landscape to find his way home. During his journey, Daryl has to protect a young boy, Laurent, who is seen as a messiah, while facing new, dangerous walker variants and the \"Power of the Living\" paramilitary group, as the connections he forms along the way complicate his plan to return home.",
+      "releaseInfo": "2023",
+      "imdbRating": "8.0",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Action & Adventure",
+        "Drama"
       ]
     }
   ]
